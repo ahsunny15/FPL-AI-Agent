@@ -1,0 +1,802 @@
+first,last,team,cost,total_points,goals_scored,assists,clean_sheets,minutes,popularity,play_chance,full_name,goals_per_90,assists_per_90,points_per_million,is_playing_next
+Fábio,Ferreira Vieira,1,5.4,0,0,0,0,0,0.0,0.0,Fábio Ferreira Vieira,0.0,0.0,0.0,False
+Gabriel,Fernando de Jesus,1,6.5,42,3,2,2,600,1.0,0.0,Gabriel Fernando de Jesus,0.4499999325000101,0.29999995500000676,6.461537467455774,False
+Gabriel,dos Santos Magalhães,1,6.2,117,3,2,10,2363,12.3,0.0,Gabriel dos Santos Magalhães,0.11426152759901079,0.07617435173267385,18.8709646982315,False
+Kai,Havertz,1,7.7,96,9,3,7,1853,5.7,75.0,Kai Havertz,0.43712895880107594,0.14570965293369198,12.467530848372617,False
+Karl,Hein,1,4.0,0,0,0,0,0,0.0,0.0,Karl Hein,0.0,0.0,0.0,False
+Jurriën,Timber,1,5.6,114,1,3,11,2415,5.4,75.0,Jurriën Timber,0.03726707935650636,0.11180123806951908,20.357139221939427,False
+Jorge Luiz,Frello Filho,1,4.6,20,0,0,2,701,0.2,100.0,Jorge Luiz Frello Filho,0.0,0.0,4.347825141777143,True
+Jakub,Kiwior,1,4.8,41,1,0,3,1027,2.2,,Jakub Kiwior,0.08763387742254239,0.0,8.541664887153148,True
+Gabriel,Martinelli Silva,1,6.5,123,8,4,10,2214,2.8,100.0,Gabriel Martinelli Silva,0.32520323881287644,0.16260161940643822,18.923074011834768,True
+Ethan,Nwaneri,1,4.3,64,4,2,4,808,1.5,100.0,Ethan Nwaneri,0.4455445048279636,0.2227722524139818,14.883717468902914,True
+Martin,Ødegaard,1,8.2,109,2,9,11,2306,5.1,100.0,Martin Ødegaard,0.07805723893098374,0.3512575751894268,13.292681305770575,True
+David,Raya Martin,1,5.5,140,0,0,13,3330,30.7,100.0,David Raya Martin,0.0,0.0,25.454540826447122,True
+Declan,Rice,1,6.2,125,4,7,11,2733,3.3,75.0,Declan Rice,0.13172337656234764,0.23051590898410837,20.16128707076015,False
+Bukayo,Saka,1,10.3,126,6,11,7,1697,17.3,100.0,Bukayo Saka,0.3182085865416778,0.5833824086597427,12.233008521067134,True
+William,Saliba,1,6.5,130,2,0,12,3039,30.6,100.0,William Saliba,0.059230008117571335,0.0,19.999996923077397,True
+Thomas,Partey,1,4.9,106,4,3,9,2703,0.7,100.0,Thomas Partey,0.13318534517695854,0.0998890088827189,21.632648646398234,True
+Kieran,Tierney,1,4.3,17,0,0,1,188,0.1,100.0,Kieran Tierney,0.0,0.0,3.9534874526773365,True
+Tomiyasu,Takehiro,1,4.8,1,0,0,0,6,0.0,0.0,Tomiyasu Takehiro,0.0,0.0,0.2083332899305646,False
+Leandro,Trossard,1,6.7,148,8,7,11,2519,3.6,75.0,Leandro Trossard,0.28582769919631085,0.25009923679677204,22.089548941858364,False
+Benjamin,White,1,6.1,45,0,1,5,1105,2.3,100.0,Benjamin White,0.0,0.08144795716713471,7.377047970975743,True
+Oleksandr,Zinchenko,1,4.8,38,0,1,4,449,0.9,100.0,Oleksandr Zinchenko,0.0,0.2004453941200769,7.916665017361455,True
+Norberto,Murara Neto,1,4.1,7,0,0,0,180,0.7,100.0,Norberto Murara Neto,0.0,0.0,1.707316656752035,True
+Raheem,Sterling,1,6.7,24,0,2,1,428,0.8,100.0,Raheem Sterling,0.0,0.42056065922789876,3.582089017598654,True
+Riccardo,Calafiori,1,5.8,39,2,1,1,978,1.2,100.0,Riccardo Calafiori,0.1840490628175709,0.09202453140878546,6.7241367717005565,True
+Myles,Lewis-Skelly,1,4.5,36,1,0,5,1342,0.4,100.0,Myles Lewis-Skelly,0.06706407895993509,0.0,7.999998222222617,True
+Mikel,Merino,1,6.0,90,7,2,4,1485,1.5,100.0,Mikel Merino,0.4242423985307637,0.12121211386593249,14.999997500000417,True
+Salah-Eddine,Oulad M'hand,1,4.5,0,0,0,0,0,0.0,,Salah-Eddine Oulad M'hand,0.0,0.0,0.0,True
+Tommy,Setford,1,4.5,0,0,0,0,0,0.1,,Tommy Setford,0.0,0.0,0.0,True
+Maldini,Kacurri,1,4.0,0,0,0,0,0,0.1,0.0,Maldini Kacurri,0.0,0.0,0.0,False
+Ismeal,Kabia,1,4.5,0,0,0,0,0,0.0,,Ismeal Kabia,0.0,0.0,0.0,True
+Josh,Nichols,1,4.0,0,0,0,0,0,0.1,,Josh Nichols,0.0,0.0,0.0,True
+Nathan,Butler-Oyedeji,1,4.5,1,0,0,0,6,0.2,,Nathan Butler-Oyedeji,0.0,0.0,0.22222217283951715,True
+Mikel,Arteta,1,1.5,96,0,0,0,0,2.4,,Mikel Arteta,0.0,0.0,63.999957333361785,True
+Jack,Porter,1,4.0,0,0,0,0,0,0.0,,Jack Porter,0.0,0.0,0.0,True
+Jimi,Gower,1,4.5,0,0,0,0,0,0.0,,Jimi Gower,0.0,0.0,0.0,True
+Jack,Henry-Francis,1,4.5,0,0,0,0,0,0.0,,Jack Henry-Francis,0.0,0.0,0.0,True
+Brayden,Clarke,1,4.0,0,0,0,0,0,0.0,,Brayden Clarke,0.0,0.0,0.0,True
+Leon,Bailey,2,6.2,47,1,2,2,1132,0.8,100.0,Leon Bailey,0.07950529403226461,0.15901058806452922,7.5806439386058155,True
+Ross,Barkley,2,5.2,43,3,1,1,561,0.2,100.0,Ross Barkley,0.4812833452486612,0.16042778174955372,8.269229178994388,True
+Enzo,Barrenechea,2,4.9,0,0,0,0,0,0.0,0.0,Enzo Barrenechea,0.0,0.0,0.0,False
+Emiliano,Buendía Stati,2,5.1,11,0,0,0,89,0.1,0.0,Emiliano Buendía Stati,0.0,0.0,2.1568623221838585,False
+Matty,Cash,2,4.4,75,1,1,7,1979,1.5,100.0,Matty Cash,0.04547751182770285,0.04547751182770285,17.04545067148848,True
+Leander,Dendoncker,2,4.5,0,0,0,0,0,0.2,0.0,Leander Dendoncker,0.0,0.0,0.0,False
+Moussa,Diaby,2,6.5,0,0,0,0,0,0.0,0.0,Moussa Diaby,0.0,0.0,0.0,False
+Diego Carlos,Santos Silva,2,4.5,21,0,0,2,828,0.3,0.0,Diego Carlos Santos Silva,0.0,0.0,4.66666562962986,False
+Lucas,Digne,2,4.4,89,0,5,6,2348,5.8,,Lucas Digne,0.0,0.19165246284125995,20.227268130166333,True
+Lewis,Dobbin,2,5.0,0,0,0,0,0,0.0,0.0,Lewis Dobbin,0.0,0.0,0.0,False
+Jhon,Durán,2,5.7,53,7,0,2,622,1.6,0.0,Jhon Durán,1.0128615897788695,0.0,9.298243982764212,False
+Joe,Gauci,2,4.0,0,0,0,0,0,0.5,0.0,Joe Gauci,0.0,0.0,0.0,False
+Kortney,Hause,2,3.9,0,0,0,0,0,0.5,,Kortney Hause,0.0,0.0,0.0,True
+Samuel,Iling-Junior,2,5.4,0,0,0,0,0,0.0,0.0,Samuel Iling-Junior,0.0,0.0,0.0,False
+Boubacar,Kamara,2,5.0,55,1,0,6,1637,0.0,100.0,Boubacar Kamara,0.05497861640313043,0.0,10.99999780000044,True
+Kaine,Kesler-Hayden,2,4.0,0,0,0,0,0,0.0,0.0,Kaine Kesler-Hayden,0.0,0.0,0.0,False
+Ezri,Konsa Ngoyo,2,4.4,102,2,0,8,2846,8.4,100.0,Ezri Konsa Ngoyo,0.06324665998165867,0.0,23.181812913224334,True
+Ian,Maatsen,2,4.5,56,1,2,3,1035,1.6,100.0,Ian Maatsen,0.08695651417769443,0.17391302835538885,12.444441679012959,True
+Filip,Marschall,2,4.0,0,0,0,0,0,0.0,0.0,Filip Marschall,0.0,0.0,0.0,False
+Emiliano,Martínez Romero,2,5.0,113,0,0,8,3150,13.1,100.0,Emiliano Martínez Romero,0.0,0.0,22.599995480000903,True
+John,McGinn,2,5.2,75,1,4,7,2156,0.7,100.0,John McGinn,0.0417439685728399,0.1669758742913596,14.423074149408816,True
+Tyrone,Mings,2,4.4,47,0,1,4,1119,0.2,100.0,Tyrone Mings,0.0,0.0804289479547763,10.681815754132781,True
+Kosta,Nedeljković,2,3.9,5,0,0,0,121,0.5,0.0,Kosta Nedeljković,0.0,0.0,1.2820509533202684,False
+Robin,Olsen,2,4.5,8,0,0,1,180,0.1,100.0,Robin Olsen,0.0,0.0,1.7777773827161372,True
+Pau,Torres,2,4.2,55,0,0,5,1929,0.8,100.0,Pau Torres,0.0,0.0,13.095234977325005,True
+Jacob,Ramsey,2,5.4,65,1,4,5,1589,0.3,100.0,Jacob Ramsey,0.056639392638423325,0.2265575705536933,12.037034807956516,True
+Morgan,Rogers,2,5.8,160,8,11,10,3032,26.0,100.0,Morgan Rogers,0.2374670114208341,0.3265171407036469,27.586202140309975,True
+Viljami,Sinisalo,2,4.0,0,0,0,0,0,0.0,0.0,Viljami Sinisalo,0.0,0.0,0.0,False
+Lino,da Cruz Sousa,2,4.0,0,0,0,0,0,0.0,0.0,Lino da Cruz Sousa,0.0,0.0,0.0,False
+Youri,Tielemans,2,5.5,120,3,7,7,2997,1.1,25.0,Youri Tielemans,0.09009008738468208,0.2102102038975915,21.81817785124039,False
+Ollie,Watkins,2,9.1,184,16,8,10,2503,25.6,100.0,Ollie Watkins,0.5753096077595427,0.2876548038797713,20.219777997826597,True
+Axel,Disasi,2,4.2,33,1,0,3,851,0.4,100.0,Axel Disasi,0.10575792066014941,0.0,7.857140986395002,True
+Amadou,Onana,2,4.8,62,3,0,5,1551,2.1,100.0,Amadou Onana,0.17408122780959992,0.0,12.916663975695005,True
+Marcus,Rashford,2,6.6,95,6,4,7,1414,4.0,0.0,Marcus Rashford,0.3818953080830427,0.2545968720553618,14.393937213039816,False
+Lamare,Bogarde,2,3.9,6,0,0,0,473,0.2,,Lamare Bogarde,0.0,0.0,1.538461143984322,True
+Sil,Swinkels,2,4.0,0,0,0,0,0,0.1,0.0,Sil Swinkels,0.0,0.0,0.0,False
+Oliwier,Zych,2,4.0,0,0,0,0,0,0.5,,Oliwier Zych,0.0,0.0,0.0,True
+Kadan,Young,2,4.4,0,0,0,0,0,0.2,0.0,Kadan Young,0.0,0.0,0.0,False
+Ben,Broggio,2,4.5,0,0,0,0,0,0.0,,Ben Broggio,0.0,0.0,0.0,True
+Jamaldeen,Jimoh,2,4.5,0,0,0,0,0,0.0,,Jamaldeen Jimoh,0.0,0.0,0.0,True
+Donyell,Malen,2,5.3,33,3,0,0,290,0.2,,Donyell Malen,0.9310341938169743,0.0,6.226413919544544,True
+Andrés,García,2,4.5,8,0,0,0,316,0.1,,Andrés García,0.0,0.0,1.7777773827161372,True
+Unai,Emery,2,0.8,105,0,0,0,0,7.5,,Unai Emery,0.0,0.0,131.24983593770506,True
+Marco,Asensio,2,6.1,43,3,2,3,695,2.7,,Marco Asensio,0.38848915832514497,0.2589927722167633,7.04917917226571,True
+Max,Aarons,3,4.3,8,0,0,1,84,0.1,0.0,Max Aarons,0.0,0.0,1.8604646836128642,False
+Tyler,Adams,3,4.9,53,0,3,5,1779,0.1,100.0,Tyler Adams,0.0,0.15177064999473946,10.816324323199117,True
+Jaidon,Anthony,3,4.5,0,0,0,0,0,0.1,0.0,Jaidon Anthony,0.0,0.0,0.0,False
+David,Brooks,3,4.9,48,2,1,2,834,0.0,100.0,David Brooks,0.21582731483877898,0.10791365741938949,9.795916368180333,True
+Ryan,Christie,3,4.8,76,2,3,8,2114,0.1,0.0,Ryan Christie,0.08514663781305705,0.12771995671958558,15.83333003472291,False
+Lewis,Cook,3,5.0,83,1,4,5,2904,0.1,100.0,Lewis Cook,0.030991734576702443,0.12396693830680977,16.599996680000665,True
+Enes,Ünal,3,5.4,32,2,1,2,330,0.1,0.0,Enes Ünal,0.5454543966942554,0.2727271983471277,5.925924828532438,False
+Romain,Faivre,3,5.0,0,0,0,0,0,0.0,0.0,Romain Faivre,0.0,0.0,0.0,False
+Hamed,Traorè,3,4.5,0,0,0,0,0,0.0,0.0,Hamed Traorè,0.0,0.0,0.0,False
+James,Hill,3,3.9,17,0,1,1,443,0.5,100.0,James Hill,0.0,0.2031602296062739,4.358973241288912,True
+Daniel,Jebbison,3,4.5,13,0,0,0,71,1.0,100.0,Daniel Jebbison,0.0,0.0,2.888888246913723,True
+Milos,Kerkez,3,5.2,127,2,6,8,3164,17.3,100.0,Milos Kerkez,0.05689001102398831,0.17067003307196493,24.423072226332263,True
+Justin,Kluivert,3,5.9,154,12,6,12,2204,10.5,100.0,Justin Kluivert,0.490018128810512,0.245009064405256,26.101690491238898,True
+Chris,Mepham,3,4.4,0,0,0,0,0,0.0,0.0,Chris Mepham,0.0,0.0,0.0,False
+Dango,Ouattara,3,4.6,111,7,4,7,1998,1.0,0.0,Dango Ouattara,0.31531530111192335,0.1801801720639562,24.130429536863144,False
+Alex,Paulsen,3,4.0,0,0,0,0,0,0.0,0.0,Alex Paulsen,0.0,0.0,0.0,False
+Philip,Billing,3,4.8,10,0,0,0,176,0.0,0.0,Philip Billing,0.0,0.0,2.083332899305646,False
+Alex,Scott,3,4.7,25,0,0,3,744,0.0,0.0,Alex Scott,0.0,0.0,5.319147804436637,False
+Antoine,Semenyo,3,5.7,147,9,7,10,3022,7.1,100.0,Antoine Semenyo,0.2680344063126749,0.20847120490985827,25.78946915974225,True
+Marcos,Senesi,3,4.6,25,0,0,1,1026,0.3,100.0,Marcos Senesi,0.0,0.0,5.434781427221429,True
+Luis,Sinisterra,3,4.8,23,1,1,0,229,0.1,0.0,Luis Sinisterra,0.3930129459774448,0.3930129459774448,4.7916656684029855,False
+Adam,Smith,3,4.4,50,0,0,5,1475,0.1,100.0,Adam Smith,0.0,0.0,11.363633780992322,True
+Marcus,Tavernier,3,5.4,82,3,7,3,1752,0.2,100.0,Marcus Tavernier,0.15410958112450782,0.35958902262385156,15.185182373114374,True
+Mark,Travers,3,4.4,19,0,0,1,450,0.1,0.0,Mark Travers,0.0,0.0,4.318180836777082,False
+Illia,Zabarnyi,3,4.4,82,0,0,7,2929,0.4,100.0,Illia Zabarnyi,0.0,0.0,18.636359400827406,True
+Kepa,Arrizabalaga,3,4.6,99,0,0,7,2610,3.2,100.0,Kepa Arrizabalaga,0.0,0.0,21.52173445179686,True
+Dean,Huijsen,3,4.5,100,3,1,7,2320,4.5,,Dean Huijsen,0.11637930583011313,0.038793101943371044,22.222217283951714,True
+Julián,Araujo Zúñiga,3,4.3,12,0,0,0,424,0.1,100.0,Julián Araujo Zúñiga,0.0,0.0,2.7906970254192967,True
+Will,Dennis,3,3.9,0,0,0,0,0,0.3,,Will Dennis,0.0,0.0,0.0,True
+Francisco Evanilson,de Lima Barbosa,3,5.8,124,10,5,10,2145,3.6,100.0,Francisco Evanilson de Lima Barbosa,0.4195804019756475,0.20979020098782375,21.37930665874023,True
+Max,Kinsey,3,4.0,0,0,0,0,0,0.0,,Max Kinsey,0.0,0.0,0.0,True
+Ben,Winterburn,3,4.5,3,0,0,0,21,0.0,,Ben Winterburn,0.0,0.0,0.6666665185185514,True
+Archie,Harris,3,4.0,0,0,0,0,0,0.0,,Archie Harris,0.0,0.0,0.0,True
+Remy,Rees-Dottin,3,4.5,1,0,0,0,1,0.1,,Remy Rees-Dottin,0.0,0.0,0.22222217283951715,True
+Matai,Akinmboni,3,4.0,0,0,0,0,0,0.0,,Matai Akinmboni,0.0,0.0,0.0,True
+Julio,Soler,3,3.9,1,0,0,0,1,0.0,100.0,Julio Soler,0.0,0.0,0.2564101906640537,True
+Daniel,Adu-Adjei,3,4.5,0,0,0,0,0,0.0,,Daniel Adu-Adjei,0.0,0.0,0.0,True
+Dominic,Sadi,3,4.5,0,0,0,0,0,0.0,,Dominic Sadi,0.0,0.0,0.0,True
+Callan,McKenna,3,4.0,0,0,0,0,0,0.0,,Callan McKenna,0.0,0.0,0.0,True
+Zain,Silcott-Duberry,3,4.5,1,0,0,0,1,0.0,,Zain Silcott-Duberry,0.0,0.0,0.22222217283951715,True
+Andoni,Iraola,3,1.1,71,0,0,0,0,1.5,,Andoni Iraola,0.0,0.0,64.54539586782194,True
+Kristoffer,Ajer,4,4.4,38,0,0,3,1429,0.2,100.0,Kristoffer Ajer,0.0,0.0,8.636361673554164,True
+Ethan,Brierley,4,4.4,0,0,0,0,0,0.1,100.0,Ethan Brierley,0.0,0.0,0.0,True
+Nathan,Collins,4,4.6,125,2,7,8,3330,4.6,,Nathan Collins,0.054054052593133714,0.18918918407596802,27.173907136107147,True
+Mikkel,Damsgaard,4,4.9,129,2,10,11,2832,1.2,100.0,Mikkel Damsgaard,0.06355932001400466,0.3177966000700233,26.326525239484642,True
+Josh,Dasilva,4,4.8,0,0,0,0,0,0.0,0.0,Josh Dasilva,0.0,0.0,0.0,False
+Mark,Flekken,4,4.5,135,0,2,7,3185,10.1,100.0,Mark Flekken,0.0,0.05651491206080312,29.999993333334814,True
+Rico,Henry,4,4.3,4,0,0,0,95,0.0,100.0,Rico Henry,0.0,0.0,0.9302323418064321,True
+Aaron,Hickey,4,4.3,0,0,0,0,0,0.0,75.0,Aaron Hickey,0.0,0.0,0.0,False
+Vitaly,Janelt,4,4.8,73,1,3,6,2251,0.2,0.0,Vitaly Janelt,0.03998222852136803,0.11994668556410408,15.208330164931215,False
+Mathias,Jensen,4,5.3,37,0,2,2,836,0.1,100.0,Mathias Jensen,0.0,0.2153109816052771,6.9811307582772155,True
+Kim,Ji-soo,4,3.9,3,0,0,0,28,0.3,,Kim Ji-soo,0.0,0.0,0.769230571992161,True
+Yunus Emre,Konak,4,4.4,10,0,0,0,53,0.1,100.0,Yunus Emre Konak,0.0,0.0,2.2727267561984643,True
+Keane,Lewis-Potter,4,5.0,92,1,5,8,3001,0.1,,Keane Lewis-Potter,0.029990002432822325,0.14995001216411163,18.399996320000735,True
+Bryan,Mbeumo,4,8.3,228,19,9,9,3325,46.9,100.0,Bryan Mbeumo,0.5142857003651992,0.24360901596246276,27.46987620844865,True
+Ben,Mee,4,4.2,9,0,0,1,180,0.3,100.0,Ben Mee,0.0,0.0,2.1428566326531824,True
+Christian,Nørgaard,4,4.8,99,5,4,6,2730,0.2,100.0,Christian Nørgaard,0.1648351594010387,0.13186812752083096,20.624995703125894,True
+Frank,Onyeka,4,4.9,2,0,0,0,23,0.0,0.0,Frank Onyeka,0.0,0.0,0.40816318200751384,False
+Myles,Peart-Harris,4,4.5,0,0,0,0,0,0.0,0.0,Myles Peart-Harris,0.0,0.0,0.0,False
+Ethan,Pinnock,4,4.4,47,2,0,2,1912,0.3,100.0,Ethan Pinnock,0.09414225498284365,0.0,10.681815754132781,True
+Mads,Roerslev Rasmussen,4,4.3,36,0,2,2,1100,0.1,0.0,Mads Roerslev Rasmussen,0.0,0.163636350247935,8.37209107625789,False
+Kevin,Schade,4,5.3,147,11,4,10,2201,3.5,100.0,Kevin Schade,0.44979552908605286,0.1635620105767465,27.735843823425693,True
+Igor Thiago,Nascimento Rodrigues,4,5.9,8,0,0,0,158,0.0,100.0,Igor Thiago Nascimento Rodrigues,0.0,0.0,1.355931973570852,True
+Ivan,Toney,4,7.3,0,0,0,0,0,1.1,0.0,Ivan Toney,0.0,0.0,0.0,False
+Hákon,Valdimarsson,4,3.9,2,0,0,0,144,3.0,,Hákon Valdimarsson,0.0,0.0,0.5128203813281074,True
+Yoane,Wissa,4,6.9,184,18,6,9,2831,22.5,100.0,Yoane Wissa,0.5722359408331915,0.19074531361106384,26.666662801932926,True
+Yehor,Yarmoliuk,4,4.3,41,0,0,3,1345,2.3,,Yehor Yarmoliuk,0.0,0.0,9.53488150351593,True
+Mathias,Jorgensen,4,4.5,0,0,0,0,0,0.0,0.0,Mathias Jorgensen,0.0,0.0,0.0,False
+Fábio,Freitas Gouveia Carvalho,4,4.5,35,2,1,0,443,0.4,0.0,Fábio Freitas Gouveia Carvalho,0.4063204592125478,0.2031602296062739,7.7777760493831,False
+Sepp,van den Berg,4,4.1,60,0,1,5,2494,1.5,100.0,Sepp van den Berg,0.0,0.036086606556618044,14.6341427721603,True
+Ryan,Trevitt,4,4.4,1,0,0,0,3,0.0,0.0,Ryan Trevitt,0.0,0.0,0.22727267561984643,False
+Gustavo,Nunes Fernandes Gomes,4,4.9,3,0,0,0,11,0.0,100.0,Gustavo Nunes Fernandes Gomes,0.0,0.0,0.6122447730112708,True
+Jayden,Meghoma,4,4.0,1,0,0,0,4,0.0,0.0,Jayden Meghoma,0.0,0.0,0.24999993750001562,False
+Tony,Yogane,4,4.5,0,0,0,0,0,0.0,0.0,Tony Yogane,0.0,0.0,0.0,False
+Paris,Maghoma,4,4.5,8,0,0,0,112,0.0,,Paris Maghoma,0.0,0.0,1.7777773827161372,True
+Benjamin,Arthur,4,4.0,0,0,0,0,0,0.0,,Benjamin Arthur,0.0,0.0,0.0,True
+Thomas,Frank,4,0.8,112,0,0,0,0,20.1,,Thomas Frank,0.0,0.0,139.99982500021875,True
+Michael,Kayode,4,4.5,25,0,1,2,438,0.2,100.0,Michael Kayode,0.0,0.20547940983299798,5.555554320987929,True
+Julian,Eyestone,4,4.0,0,0,0,0,0,0.0,,Julian Eyestone,0.0,0.0,0.0,True
+Iwan,Morgan,4,4.5,0,0,0,0,0,0.0,,Iwan Morgan,0.0,0.0,0.0,True
+Benjamin,Fredrick,4,4.0,0,0,0,0,0,0.0,,Benjamin Fredrick,0.0,0.0,0.0,True
+Simon,Adingra,5,5.1,57,2,3,2,972,0.3,100.0,Simon Adingra,0.18518516803841037,0.27777775205761557,11.176468396770902,True
+Benicio,Baker-Boaitey,5,4.5,0,0,0,0,0,0.0,0.0,Benicio Baker-Boaitey,0.0,0.0,0.0,False
+Carlos,Baleba,5,5.0,83,3,1,8,2480,0.2,100.0,Carlos Baleba,0.10887096379097308,0.03629032126365769,16.599996680000665,True
+Valentín,Barco,5,4.0,0,0,0,0,0,1.9,0.0,Valentín Barco,0.0,0.0,0.0,False
+Amario,Cozier-Duberry,5,4.5,0,0,0,0,0,0.0,0.0,Amario Cozier-Duberry,0.0,0.0,0.0,False
+Mahmoud,Dahoud,5,4.9,0,0,0,0,0,0.0,0.0,Mahmoud Dahoud,0.0,0.0,0.0,False
+Lewis,Dunk,5,4.2,44,0,1,4,2081,2.3,100.0,Lewis Dunk,0.0,0.043248436380413605,10.476187981860004,True
+Pervis,Estupiñán,5,4.9,62,1,1,3,2309,1.2,100.0,Pervis Estupiñán,0.03897791099696319,0.03897791099696319,12.65305864223293,True
+Billy,Gilmour,5,5.0,3,0,0,0,97,0.0,0.0,Billy Gilmour,0.0,0.0,0.599999880000024,False
+Pascal,Groß,5,6.5,0,0,0,0,0,0.0,0.0,Pascal Groß,0.0,0.0,0.0,False
+Jack,Hinshelwood,5,4.9,68,2,3,6,1743,0.1,100.0,Jack Hinshelwood,0.10327021841978218,0.15490532762967327,13.87754818825547,True
+Ibrahim,Osman,5,5.0,0,0,0,0,0,0.0,0.0,Ibrahim Osman,0.0,0.0,0.0,False
+Igor Julio,dos Santos de Paulo,5,4.3,17,0,0,1,900,0.1,100.0,Igor Julio dos Santos de Paulo,0.0,0.0,3.9534874526773365,True
+João Pedro,Junqueira de Jesus,5,5.5,126,10,6,6,1946,8.7,100.0,João Pedro Junqueira de Jesus,0.4624871317451994,0.27749227904711965,22.90908674380241,True
+Kacper,Kozłowski,5,4.5,0,0,0,0,0,0.0,0.0,Kacper Kozłowski,0.0,0.0,0.0,False
+Tariq,Lamptey,5,4.4,42,2,2,2,856,0.2,100.0,Tariq Lamptey,0.21028035172286022,0.21028035172286022,9.54545237603355,True
+Solly,March,5,6.5,7,0,0,0,161,0.0,0.0,Solly March,0.0,0.0,1.076922911242629,False
+Adrian,Mazilu,5,4.5,0,0,0,0,0,0.0,0.0,Adrian Mazilu,0.0,0.0,0.0,False
+James,Milner,5,5.0,5,0,0,1,169,0.0,0.0,James Milner,0.0,0.0,0.99999980000004,False
+Yankuba,Minteh,5,4.8,98,6,5,4,1658,1.0,100.0,Yankuba Minteh,0.32569358907574003,0.27141132422978337,20.41666241319533,True
+Mitoma,Kaoru,5,6.3,135,9,4,6,2527,6.1,75.0,Mitoma Kaoru,0.32053817615811797,0.1424614116258302,21.428568027211423,False
+Jakub,Moder,5,4.4,4,0,0,0,9,0.4,0.0,Jakub Moder,0.0,0.0,0.9090907024793857,False
+Mark,O’Mahony,5,4.5,0,0,0,0,0,0.2,0.0,Mark O’Mahony,0.0,0.0,0.0,False
+Odeluga,Offiah,5,4.0,0,0,0,0,0,0.1,0.0,Odeluga Offiah,0.0,0.0,0.0,False
+Cameron,Peupion,5,4.4,0,0,0,0,0,0.0,0.0,Cameron Peupion,0.0,0.0,0.0,False
+Jeremy,Sarmiento Morante,5,4.9,1,0,0,0,8,0.0,0.0,Jeremy Sarmiento Morante,0.0,0.0,0.20408159100375692,False
+Jason,Steele,5,4.0,9,0,0,1,180,0.7,100.0,Jason Steele,0.0,0.0,2.2499994375001404,True
+Deniz,Undav,5,5.5,0,0,0,0,0,0.0,0.0,Deniz Undav,0.0,0.0,0.0,False
+Jan Paul,van Hecke,5,4.5,84,1,1,7,2780,0.7,100.0,Jan Paul van Hecke,0.032374099671342096,0.032374099671342096,18.66666251851944,True
+Joël,Veltman,5,4.3,59,0,0,6,1663,1.1,100.0,Joël Veltman,0.0,0.0,13.720927041644874,True
+Bart,Verbruggen,5,4.6,99,0,1,7,3060,2.5,100.0,Bart Verbruggen,0.0,0.02941176384083048,21.52173445179686,True
+Adam,Webster,5,4.3,34,0,0,4,705,0.1,100.0,Adam Webster,0.0,0.0,7.906974905354673,True
+Danny,Welbeck,5,5.5,120,10,4,7,2026,6.2,100.0,Danny Welbeck,0.4442250543039215,0.17769002172156861,21.81817785124039,True
+Mats,Wieffer,5,4.7,48,1,5,2,823,0.1,100.0,Mats Wieffer,0.10935600262206534,0.5467800131103268,10.212763784518343,True
+Brajan,Gruda,5,5.4,37,1,3,1,529,0.0,100.0,Brajan Gruda,0.17013229619677378,0.5103968885903214,6.851850582990632,True
+Yasin,Ayari,5,5.0,64,1,1,7,1840,0.0,100.0,Yasin Ayari,0.04891304108577517,0.04891304108577517,12.799997440000512,True
+Andrew,Moran,5,5.0,0,0,0,0,0,0.0,0.0,Andrew Moran,0.0,0.0,0.0,False
+Carl,Rushworth,5,3.9,0,0,0,0,0,0.1,100.0,Carl Rushworth,0.0,0.0,0.0,True
+Georginio,Rutter,5,5.0,95,5,6,6,1651,0.3,50.0,Georginio Rutter,0.2725620687276885,0.32707448247322624,18.99999620000076,False
+Ferdi,Kadioglu,5,4.4,19,1,0,2,385,0.1,0.0,Ferdi Kadioglu,0.2337661791195945,0.0,4.318180836777082,False
+Matt,O'Riley,5,5.5,40,1,2,2,898,0.0,100.0,Matt O'Riley,0.10022270710462847,0.20044541420925693,7.272725950413464,True
+Imari,Samuels,5,4.0,0,0,0,0,0,0.0,0.0,Imari Samuels,0.0,0.0,0.0,False
+Killian,Cahill,5,3.9,0,0,0,0,0,0.9,,Killian Cahill,0.0,0.0,0.0,True
+Ruairi,McConville,5,4.0,0,0,0,0,0,0.0,0.0,Ruairi McConville,0.0,0.0,0.0,False
+Jacob,Slater,5,4.0,0,0,0,0,0,0.0,,Jacob Slater,0.0,0.0,0.0,True
+Diego,Gómez,5,5.5,18,0,0,0,446,0.0,100.0,Diego Gómez,0.0,0.0,3.2727266776860584,True
+Fabian,Hürzeler,5,1.1,90,0,0,0,0,1.3,,Fabian Hürzeler,0.0,0.0,81.81810743808414,True
+Joe,Knight,5,4.5,0,0,0,0,0,0.0,,Joe Knight,0.0,0.0,0.0,True
+Eiran,Cashin,5,4.5,1,0,0,0,19,0.0,,Eiran Cashin,0.0,0.0,0.22222217283951715,True
+Charlie,Tasker,5,4.0,0,0,0,0,0,0.0,,Charlie Tasker,0.0,0.0,0.0,True
+Freddie,Simmonds,5,4.0,0,0,0,0,0,0.0,,Freddie Simmonds,0.0,0.0,0.0,True
+Harry,Howell,5,4.5,0,0,0,0,0,0.0,,Harry Howell,0.0,0.0,0.0,True
+Andrey,Nascimento dos Santos,6,4.5,0,0,0,0,0,0.0,0.0,Andrey Nascimento dos Santos,0.0,0.0,0.0,False
+Ângelo Gabriel,Borges Damaceno,6,4.5,0,0,0,0,0,0.1,0.0,Ângelo Gabriel Borges Damaceno,0.0,0.0,0.0,False
+Benoît,Badiashile,6,4.2,7,0,0,0,332,0.1,100.0,Benoît Badiashile,0.0,0.0,1.6666662698413641,True
+Lucas,Bergström,6,3.9,0,0,0,0,0,0.2,,Lucas Bergström,0.0,0.0,0.0,True
+Marcus,Bettinelli,6,3.9,0,0,0,0,0,0.4,,Marcus Bettinelli,0.0,0.0,0.0,True
+Moisés,Caicedo Corozo,6,4.9,96,1,4,11,3261,1.0,,Moisés Caicedo Corozo,0.027598895282459193,0.11039558112983677,19.591832736360665,True
+Cesare,Casadei,6,4.4,0,0,0,0,0,0.1,0.0,Cesare Casadei,0.0,0.0,0.0,False
+Trevoh,Chalobah,6,4.4,93,3,1,6,1969,0.8,100.0,Trevoh Chalobah,0.13712543812021868,0.045708479373406226,21.13635883264572,True
+Carney,Chukwuemeka,6,4.7,0,0,0,0,0,0.0,0.0,Carney Chukwuemeka,0.0,0.0,0.0,False
+Levi,Colwill,6,4.4,94,1,1,9,3060,2.5,100.0,Levi Colwill,0.02941176384083048,0.02941176384083048,21.363631508265563,True
+Marc,Cucurella Saseta,6,5.4,125,5,2,8,2898,10.9,100.0,Marc Cucurella Saseta,0.1552794982832454,0.06211179931329816,23.148143861454837,True
+David Datro,Fofana,6,5.4,0,0,0,0,0,0.1,0.0,David Datro Fofana,0.0,0.0,0.0,False
+Deivid Washington,de Souza Eugênio,6,4.9,0,0,0,0,0,0.1,0.0,Deivid Washington de Souza Eugênio,0.0,0.0,0.0,False
+Kiernan,Dewsbury-Hall,6,5.5,17,0,1,0,253,0.1,100.0,Kiernan Dewsbury-Hall,0.0,0.35573109875178305,3.090908528925722,True
+Enzo,Fernández,6,4.7,132,6,8,9,2853,4.2,100.0,Enzo Fernández,0.18927444197872423,0.252365922638299,28.085100407425443,True
+Conor,Gallagher,6,5.9,0,0,0,0,0,0.1,0.0,Conor Gallagher,0.0,0.0,0.0,False
+Alfie,Gilchrist,6,4.0,0,0,0,0,0,0.0,0.0,Alfie Gilchrist,0.0,0.0,0.0,False
+Malo,Gusto,6,4.9,59,0,1,4,1841,1.4,100.0,Malo Gusto,0.0,0.04888647235210075,12.040813869221658,True
+Reece,James,6,4.8,48,1,2,2,967,0.9,100.0,Reece James,0.0930713460429978,0.1861426920859956,9.9999979166671,True
+Omari,Kellyman,6,4.3,0,0,0,0,0,0.1,0.0,Omari Kellyman,0.0,0.0,0.0,False
+Roméo,Lavia,6,4.5,25,0,1,3,764,0.4,100.0,Roméo Lavia,0.0,0.1178010332433338,5.555554320987929,True
+Romelu,Lukaku Bolingoli,6,6.3,0,0,0,0,0,0.2,0.0,Romelu Lukaku Bolingoli,0.0,0.0,0.0,False
+Malang,Sarr,6,4.5,0,0,0,0,0,0.0,0.0,Malang Sarr,0.0,0.0,0.0,False
+Noni,Madueke,6,6.0,117,7,5,5,1943,3.2,100.0,Noni Madueke,0.3242408496234295,0.2316006068738782,19.49999675000054,True
+Marc,Guiu Paz,6,4.7,3,0,0,0,71,0.4,25.0,Marc Guiu Paz,0.0,0.0,0.6382977365323964,False
+Mykhailo,Mudryk,6,6.1,7,0,0,0,145,0.2,0.0,Mykhailo Mudryk,0.0,0.0,1.1475407954851156,False
+Nicolas,Jackson,6,7.7,121,10,6,11,2220,6.4,0.0,Nicolas Jackson,0.40540538897005174,0.24324323338203105,15.714283673469652,False
+Christopher,Nkunku,6,5.7,60,3,2,2,904,2.0,50.0,Christopher Nkunku,0.2986725366365838,0.1991150244243892,10.526313942751939,False
+Cole,Palmer,6,10.5,211,15,10,9,3103,35.0,100.0,Cole Palmer,0.43506282979192573,0.2900418865279505,20.09523618140608,True
+Đorđe,Petrović,6,4.4,0,0,0,0,0,0.1,0.0,Đorđe Petrović,0.0,0.0,0.0,False
+Renato,Palma Veiga,6,4.4,7,0,0,1,176,0.1,0.0,Renato Palma Veiga,0.0,0.0,1.590908729338925,False
+Robert,Sánchez,6,4.5,120,0,0,9,2790,6.2,100.0,Robert Sánchez,0.0,0.0,26.666660740742056,True
+Tosin,Adarabioyo,6,4.2,65,1,1,6,1313,0.3,,Tosin Adarabioyo,0.06854531137160852,0.06854531137160852,15.476186791384096,True
+Wesley,Fofana,6,4.3,26,0,0,2,1172,0.2,0.0,Wesley Fofana,0.0,0.0,6.0465102217418085,False
+Jadon,Sancho,6,6.2,83,3,5,6,1693,0.9,100.0,Jadon Sancho,0.15948020416230457,0.2658003402705076,13.387094614984738,True
+Pedro,Lomba Neto,6,6.1,98,4,5,7,2185,1.5,100.0,Pedro Lomba Neto,0.16475971861401614,0.20594964826752019,16.06557113679162,True
+Caleb,Wiley,6,4.0,0,0,0,0,0,0.0,0.0,Caleb Wiley,0.0,0.0,0.0,False
+Filip,Jørgensen,6,4.2,18,0,0,1,540,0.4,100.0,Filip Jørgensen,0.0,0.0,4.285713265306365,True
+João,Félix Sequeira,6,5.9,24,1,2,1,362,0.4,0.0,João Félix Sequeira,0.24861872271910207,0.49723744543820414,4.067795920712555,False
+Samuel,Rak-Sakyi,6,4.5,0,0,0,0,0,0.0,,Samuel Rak-Sakyi,0.0,0.0,0.0,True
+Tyrique,George,6,4.5,17,1,1,1,177,0.0,,Tyrique George,0.5084743177249232,0.5084743177249232,3.777776938271791,True
+Josh,Acheampong,6,4.0,4,0,0,0,168,0.1,,Josh Acheampong,0.0,0.0,0.9999997500000625,True
+Enzo,Maresca,6,1.5,85,0,0,0,0,1.6,,Enzo Maresca,0.0,0.0,56.666628888914076,True
+Mathis,Amougou,6,4.5,1,0,0,0,7,0.0,,Mathis Amougou,0.0,0.0,0.22222217283951715,True
+Aaron,Anselmino,6,4.0,0,0,0,0,0,0.0,100.0,Aaron Anselmino,0.0,0.0,0.0,True
+Shumaira,Mheuka,6,4.5,1,0,0,0,1,0.0,,Shumaira Mheuka,0.0,0.0,0.22222217283951715,True
+Ishé,Samuels-Smith,6,4.0,0,0,0,0,0,0.0,,Ishé Samuels-Smith,0.0,0.0,0.0,True
+Genesis,Antwi,6,4.0,0,0,0,0,0,0.0,,Genesis Antwi,0.0,0.0,0.0,True
+Eddie,Nketiah,7,5.9,39,1,2,2,910,0.6,100.0,Eddie Nketiah,0.09890108911967252,0.19780217823934504,6.6101683711579025,True
+Ben,Chilwell,7,4.6,6,0,0,0,164,0.5,100.0,Ben Chilwell,0.0,0.0,1.304347542533143,True
+Naouirou,Ahamada,7,4.5,0,0,0,0,0,0.1,0.0,Naouirou Ahamada,0.0,0.0,0.0,False
+Cheick,Doucouré,7,4.8,19,0,1,1,443,0.0,0.0,Cheick Doucouré,0.0,0.2031602296062739,3.9583325086807273,False
+Chris,Richards,7,4.4,65,1,1,7,1741,0.2,100.0,Chris Richards,0.05169442581706012,0.05169442581706012,14.772723915290017,True
+Chadi,Riad Dnanou,7,4.3,1,0,0,0,90,0.0,0.0,Chadi Riad Dnanou,0.0,0.0,0.23255808545160803,False
+Nathaniel,Clyne,7,4.3,18,0,0,1,477,0.1,,Nathaniel Clyne,0.0,0.0,4.186045538128945,True
+Malcolm,Ebiowei,7,4.5,0,0,0,0,0,0.0,0.0,Malcolm Ebiowei,0.0,0.0,0.0,False
+Eberechi,Eze,7,7.0,139,7,8,9,2518,14.9,100.0,Eberechi Eze,0.25019856135112367,0.2859412129727128,19.85714002040857,True
+Marc,Guéhi,7,4.7,116,3,2,11,3059,6.2,100.0,Marc Guéhi,0.0882641360105354,0.05884275734035693,24.680845812585996,True
+Dean,Henderson,7,4.6,132,0,0,11,3240,12.2,100.0,Dean Henderson,0.0,0.0,28.695645935729146,True
+Rob,Holding,7,4.2,0,0,0,0,0,0.1,0.0,Rob Holding,0.0,0.0,0.0,False
+Will,Hughes,7,4.9,63,0,4,9,1977,0.0,100.0,Will Hughes,0.0,0.18209407365277358,12.857140233236686,True
+Daichi,Kamada,7,5.1,42,0,0,3,1436,0.1,100.0,Daichi Kamada,0.0,0.0,8.235292502883823,True
+Jefferson,Lerma Solís,7,4.8,54,0,1,6,2090,0.1,100.0,Jefferson Lerma Solís,0.0,0.04306219910258473,11.249997656250489,True
+Jean-Philippe,Mateta,7,7.5,147,14,2,8,2572,9.6,100.0,Jean-Philippe Mateta,0.48989111816088615,0.06998444545155517,19.599997386667013,True
+Matheus,França de Oliveira,7,4.4,7,1,0,0,24,0.2,100.0,Matheus França de Oliveira,3.7499859375527347,0.0,1.590908729338925,True
+Remi,Matthews,7,3.9,0,0,0,0,0,0.4,,Remi Matthews,0.0,0.0,0.0,True
+Tyrick,Mitchell,7,4.8,118,0,5,12,3000,2.2,,Tyrick Mitchell,0.0,0.14999999550000015,24.583328211806624,True
+Daniel,Muñoz,7,5.2,139,4,6,11,3049,20.4,100.0,Daniel Muñoz,0.11807149536686304,0.17710724305029457,26.730764090237674,True
+David,Ozoh,7,4.5,0,0,0,0,0,0.0,0.0,David Ozoh,0.0,0.0,0.0,False
+Jesurun,Rak-Sakyi,7,4.5,0,0,0,0,0,0.0,0.0,Jesurun Rak-Sakyi,0.0,0.0,0.0,False
+Jeffrey,Schlupp,7,4.6,12,0,0,0,95,0.0,0.0,Jeffrey Schlupp,0.0,0.0,2.608695085066286,False
+Joel,Ward,7,4.3,1,0,0,0,1,0.1,100.0,Joel Ward,0.0,0.0,0.23255808545160803,True
+Adam,Wharton,7,4.7,42,0,2,4,1314,0.1,100.0,Adam Wharton,0.0,0.13698629198724027,8.93616831145355,True
+Matt,Turner,7,3.9,0,0,0,0,0,7.3,100.0,Matt Turner,0.0,0.0,0.0,True
+Ismaïla,Sarr,7,5.6,135,7,6,10,2556,6.6,100.0,Ismaïla Sarr,0.24647886456060336,0.2112675981948029,24.10713855229669,True
+Franco,Umeh-Chibueze,7,4.4,0,0,0,0,0,0.0,100.0,Franco Umeh-Chibueze,0.0,0.0,0.0,True
+Justin,Devenny,7,4.5,29,1,0,0,421,0.1,,Justin Devenny,0.21377667638978412,0.0,6.444443012345997,True
+Asher,Agbinone,7,4.5,2,0,0,0,4,0.0,0.0,Asher Agbinone,0.0,0.0,0.4444443456790343,False
+Kaden,Rodney,7,4.5,0,0,0,0,0,0.0,,Kaden Rodney,0.0,0.0,0.0,True
+Maxence,Lacroix,7,4.5,111,1,2,11,2936,1.0,100.0,Maxence Lacroix,0.0306539500140138,0.0613079000280276,24.666661185186403,True
+Caleb,Kporha,7,4.0,2,0,0,0,11,0.0,,Caleb Kporha,0.0,0.0,0.49999987500003124,True
+Zach,Marsh,7,4.5,0,0,0,0,0,0.2,,Zach Marsh,0.0,0.0,0.0,True
+Romain,Esse,7,4.7,12,1,0,0,44,0.1,100.0,Romain Esse,2.045450361578806,0.0,2.5531909461295856,True
+Oliver,Glasner,7,0.8,109,0,0,0,0,1.2,,Oliver Glasner,0.0,0.0,136.2498296877129,True
+Armando,Broja,8,5.3,12,0,0,2,327,0.1,100.0,Armando Broja,0.0,0.0,2.2641505161980158,True
+Abdoulaye,Doucouré,8,5.1,93,3,2,11,2549,0.6,100.0,Abdoulaye Doucouré,0.10592388798228719,0.0706159253215248,18.235290542099893,True
+Norberto Bercique,Gomes Betuncal,8,4.9,85,8,0,3,1434,4.6,,Norberto Bercique Gomes Betuncal,0.5020920186971537,0.0,17.34693523531934,True
+Jarrad,Branthwaite,8,4.9,88,0,1,9,2509,2.5,100.0,Jarrad Branthwaite,0.0,0.03587086359969003,17.95918000833061,True
+Dominic,Calvert-Lewin,8,5.4,62,3,2,8,1600,1.0,100.0,Dominic Calvert-Lewin,0.16874999050781303,0.11249999367187534,11.4814793552816,True
+Séamus,Coleman,8,4.3,5,0,0,0,214,0.0,100.0,Séamus Coleman,0.0,0.0,1.1627904272580403,True
+Idrissa,Gueye,8,4.8,87,0,3,11,2973,0.2,100.0,Idrissa Gueye,0.0,0.0908173534565887,18.12499622395912,True
+James,Garner,8,4.9,40,0,1,4,1500,0.0,100.0,James Garner,0.0,0.059999996400000206,8.163263640150277,True
+Jack,Harrison,8,5.2,78,1,3,6,1978,0.2,100.0,Jack Harrison,0.04550050349087699,0.13650151047263095,14.999997115385169,True
+Mason,Holgate,8,4.0,1,0,0,0,5,0.1,0.0,Mason Holgate,0.0,0.0,0.24999993750001562,False
+Tim,Iroegbunam,8,4.3,22,0,1,0,562,0.6,100.0,Tim Iroegbunam,0.0,0.16014232310888063,5.116277879935377,True
+João,Neves Virgínia,8,3.8,0,0,0,0,0,0.8,,João Neves Virgínia,0.0,0.0,0.0,True
+Michael,Keane,8,3.8,42,3,0,2,956,4.2,100.0,Michael Keane,0.28242675165438536,0.0,11.052628670360876,True
+Neal,Maupay,8,4.9,0,0,0,0,0,0.2,0.0,Neal Maupay,0.0,0.0,0.0,False
+Dwight,McNeil,8,5.1,92,4,8,5,1352,1.5,100.0,Dwight McNeil,0.26627217162389394,0.5325443432477879,18.03921214917409,True
+Vitalii,Mykolenko,8,4.4,112,1,2,10,2992,7.2,100.0,Vitalii Mykolenko,0.030080212998924074,0.06016042599784815,25.4545396694228,True
+Iliman,Ndiaye,8,5.2,112,9,0,14,2351,1.1,100.0,Iliman Ndiaye,0.3445342275593022,0.0,21.5384573964505,True
+Nathan,Patterson,8,4.4,14,0,1,0,342,0.0,100.0,Nathan Patterson,0.0,0.2631578254847828,3.18181745867785,True
+Jordan,Pickford,8,5.2,147,0,1,11,3330,16.7,,Jordan Pickford,0.0,0.027027026296566857,28.26922533284128,True
+James,Tarkowski,8,4.8,105,1,1,10,2922,1.7,0.0,James Tarkowski,0.030800820406545575,0.030800820406545575,21.874995442709285,False
+Youssef,Ramalho Chermiti,8,4.9,3,0,0,0,42,0.0,100.0,Youssef Ramalho Chermiti,0.0,0.0,0.6122447730112708,True
+Ashley,Young,8,4.2,93,1,4,8,1774,1.4,100.0,Ashley Young,0.05073280464151498,0.20293121856605992,22.142851870749553,True
+Carlos,Alcaraz Durán,8,4.7,34,1,3,0,691,0.1,100.0,Carlos Alcaraz Durán,0.13024600329646846,0.3907380098894053,7.234041014033826,True
+Jesper,Lindstrøm,8,5.0,44,0,1,6,1229,0.1,0.0,Jesper Lindstrøm,0.0,0.07323026314831271,8.799998240000352,False
+Jake,O'Brien,8,4.5,59,2,0,4,1478,1.0,100.0,Jake O'Brien,0.12178619014833754,0.0,13.111108197531511,True
+Harrison,Armstrong,8,4.4,2,0,0,0,47,0.1,0.0,Harrison Armstrong,0.0,0.0,0.45454535123969286,False
+Jenson,Metcalfe,8,4.5,0,0,0,0,0,0.0,0.0,Jenson Metcalfe,0.0,0.0,0.0,False
+Asmir,Begovic,8,4.0,0,0,0,0,0,0.2,,Asmir Begovic,0.0,0.0,0.0,True
+Roman,Dixon,8,3.9,0,0,0,0,90,0.1,,Roman Dixon,0.0,0.0,0.0,True
+Orel,Mangala,8,5.0,39,1,0,5,1257,0.0,0.0,Orel Mangala,0.07159904021963913,0.0,7.799998440000312,False
+Callum,Bates,8,4.5,0,0,0,0,0,0.0,,Callum Bates,0.0,0.0,0.0,True
+Martin,Sherif,8,4.5,0,0,0,0,0,0.1,,Martin Sherif,0.0,0.0,0.0,True
+David,Moyes,8,0.5,118,0,0,0,0,8.2,,David Moyes,0.0,0.0,235.999528000944,True
+Isaac,Heath,8,4.5,0,0,0,0,0,0.0,,Isaac Heath,0.0,0.0,0.0,True
+Coby,Ebere,8,4.5,0,0,0,0,0,0.0,,Coby Ebere,0.0,0.0,0.0,True
+Reiss,Nelson,9,5.0,27,1,1,1,483,0.0,0.0,Reiss Nelson,0.18633536900583186,0.18633536900583186,5.399998920000216,False
+Emile,Smith Rowe,9,5.1,113,6,3,7,2007,7.3,100.0,Emile Smith Rowe,0.26905828389873165,0.13452914194936583,22.156858400616002,True
+Joachim,Andersen,9,4.2,50,0,0,4,2583,3.4,100.0,Joachim Andersen,0.0,0.0,11.904759070295459,True
+Adama,Traoré,9,4.5,93,2,8,3,1683,1.4,100.0,Adama Traoré,0.10695186593840289,0.42780746375361156,20.666662074075095,True
+Andreas,Hoelgebaum Pereira,9,4.9,79,2,6,5,1944,0.8,100.0,Andreas Hoelgebaum Pereira,0.09259258830589868,0.277777764917696,16.122445689296796,True
+Calvin,Bassey,9,4.5,75,1,0,5,3074,0.6,100.0,Calvin Bassey,0.029277813066036704,0.0,16.666662962963784,True
+Steven,Benda,9,3.9,0,0,0,0,0,0.3,,Steven Benda,0.0,0.0,0.0,True
+Tom,Cairney,9,4.8,31,2,0,1,538,0.0,100.0,Tom Cairney,0.3345724347369533,0.0,6.458331987847503,True
+Timothy,Castagne,9,4.2,46,0,1,3,1642,0.9,0.0,Timothy Castagne,0.0,0.0548112028422605,10.952378344671821,False
+Issa,Diop,9,4.3,31,0,0,1,1334,0.2,,Issa Diop,0.0,0.0,7.209300648999849,True
+Luke,Harris,9,4.5,0,0,0,0,0,0.0,0.0,Luke Harris,0.0,0.0,0.0,False
+Alex,Iwobi,9,5.5,155,9,6,6,2952,5.7,,Alex Iwobi,0.27439023553688313,0.1829268236912554,28.18181305785217,True
+Bernd,Leno,9,5.0,113,0,2,5,3330,3.0,,Bernd Leno,0.0,0.054054052593133714,22.599995480000903,True
+Saša,Lukić,9,4.8,54,0,2,4,2263,0.0,75.0,Saša Lukić,0.0,0.07954042989012872,11.249997656250489,False
+Kevin,Mbabu,9,4.0,0,0,0,0,0,0.1,0.0,Kevin Mbabu,0.0,0.0,0.0,False
+Rodrigo,Muniz Carvalho,9,5.5,86,8,1,2,943,1.4,0.0,Rodrigo Muniz Carvalho,0.7635206058145764,0.09544007572682205,15.636360793388945,False
+Raúl,Jiménez,9,5.3,145,12,3,7,2396,4.9,,Raúl Jiménez,0.45075123515542104,0.11268780878885526,27.35848540405936,True
+Tim,Ream,9,4.5,0,0,0,0,0,0.0,0.0,Tim Ream,0.0,0.0,0.0,False
+Harrison,Reed,9,4.7,10,0,0,0,100,0.0,0.0,Harrison Reed,0.0,0.0,2.1276591217746548,False
+Antonee,Robinson,9,4.7,105,0,10,5,3076,16.0,75.0,Antonee Robinson,0.0,0.29258776777213946,22.340420778633874,False
+Jay,Stansfield,9,5.0,1,0,0,0,1,0.0,0.0,Jay Stansfield,0.0,0.0,0.199999960000008,False
+Kenny,Tete,9,4.4,48,0,2,3,1683,0.2,100.0,Kenny Tete,0.0,0.10695186593840289,10.909088429752629,True
+Carlos Vinícius,Alves Morais,9,5.0,3,0,0,0,13,0.3,100.0,Carlos Vinícius Alves Morais,0.0,0.0,0.599999880000024,True
+Harry,Wilson,9,5.2,76,6,2,2,1088,0.2,100.0,Harry Wilson,0.4963234883555938,0.16544116278519794,14.615381804734268,True
+Ryan,Sessegnon,9,4.2,56,4,2,1,558,3.0,100.0,Ryan Sessegnon,0.6451611862643247,0.32258059313216236,13.333330158730913,True
+Jorge,Cuenca Barreno,9,4.4,8,0,0,0,259,0.0,100.0,Jorge Cuenca Barreno,0.0,0.0,1.8181814049587715,True
+Josh,King,9,4.4,9,0,0,1,109,0.1,,Josh King,0.0,0.0,2.045454080578618,True
+Martial,Godo,9,4.4,2,0,0,0,21,0.0,,Martial Godo,0.0,0.0,0.45454535123969286,True
+Sander,Berge,9,5.0,52,0,0,4,2217,0.0,100.0,Sander Berge,0.0,0.0,10.399997920000416,True
+Samuel,Amissah,9,4.0,0,0,0,0,0,0.0,,Samuel Amissah,0.0,0.0,0.0,True
+Marco Alexandre,Saraiva da Silva,9,1.1,94,0,0,0,0,0.2,,Marco Alexandre Saraiva da Silva,0.0,0.0,85.45446776866567,True
+Willian,Borges da Silva,9,5.0,13,0,0,1,251,0.0,,Willian Borges da Silva,0.0,0.0,2.599999480000104,True
+Julio,Enciso,10,5.4,59,2,3,2,1155,0.3,100.0,Julio Enciso,0.15584414370045635,0.2337662155506845,10.925923902606684,True
+Ali,Al-Hamadi,10,4.7,8,0,0,0,125,0.2,0.0,Ali Al-Hamadi,0.0,0.0,1.702127297419724,False
+Elkan,Baggott,10,4.0,0,0,0,0,0,0.0,0.0,Elkan Baggott,0.0,0.0,0.0,False
+Nathan,Broadhead,10,4.9,29,1,0,2,613,0.0,75.0,Nathan Broadhead,0.14681890177210252,0.0,5.918366139108951,False
+Cameron,Burgess,10,3.8,26,0,2,0,1540,1.9,100.0,Cameron Burgess,0.0,0.11688311005228577,6.842103462604352,True
+Wes,Burns,10,4.7,30,0,1,1,922,0.0,0.0,Wes Burns,0.0,0.09761387333487138,6.382977365323964,False
+Conor,Chaplin,10,5.1,39,1,2,1,776,0.1,100.0,Conor Chaplin,0.11597936799208362,0.23195873598416725,7.647057324106408,True
+Harry,Clarke,10,4.0,1,0,0,0,377,0.0,0.0,Harry Clarke,0.0,0.0,0.24999993750001562,False
+Leif,Davis,10,4.2,51,1,2,2,2652,0.9,100.0,Leif Davis,0.033936650432014125,0.06787330086402825,12.142854251701367,True
+Liam,Delap,10,5.6,132,12,2,3,2567,3.3,100.0,Liam Delap,0.4207245664724538,0.07012076107874231,23.57142436224565,True
+George,Edmundson,10,4.0,1,0,0,0,1,0.1,0.0,George Edmundson,0.0,0.0,0.24999993750001562,False
+Jacob,Greaves,10,3.8,36,1,0,2,2115,2.3,100.0,Jacob Greaves,0.04255318967858767,0.0,9.47368171745218,True
+Marcus,Myers-Harness,10,4.9,2,0,0,0,43,0.0,0.0,Marcus Myers-Harness,0.0,0.0,0.40816318200751384,False
+George,Hirst,10,5.4,44,3,1,0,576,0.0,100.0,George Hirst,0.4687499267578239,0.1562499755859413,8.148146639232102,True
+Cameron,Humphreys,10,4.5,0,0,0,0,0,0.0,0.0,Cameron Humphreys,0.0,0.0,0.0,False
+Omari,Giraud-Hutchinson,10,5.2,86,3,3,3,2495,0.3,100.0,Omari Giraud-Hutchinson,0.10821642896213282,0.10821642896213282,16.538458357988777,True
+Ben,Johnson,10,3.8,30,1,2,0,1346,1.9,100.0,Ben Johnson,0.06686478007590624,0.13372956015181248,7.894734764543483,True
+Freddie,Ladapo,10,4.5,0,0,0,0,0,0.4,0.0,Freddie Ladapo,0.0,0.0,0.0,False
+Massimo,Luongo,10,4.3,12,0,0,0,192,0.2,100.0,Massimo Luongo,0.0,0.0,2.7906970254192967,True
+Sam,Morsy,10,4.8,65,1,1,2,2663,0.1,100.0,Sam Morsy,0.03379646900425001,0.03379646900425001,13.541663845486699,True
+Corrie,Ndaba,10,4.0,0,0,0,0,0,0.0,0.0,Corrie Ndaba,0.0,0.0,0.0,False
+Cieran,Slicker,10,3.9,0,0,0,0,0,0.6,,Cieran Slicker,0.0,0.0,0.0,True
+Jack,Taylor,10,4.8,37,1,0,0,825,0.0,100.0,Jack Taylor,0.10909089719008395,0.0,7.70833172743089,True
+Axel,Tuanzebe,10,3.9,26,0,1,1,1620,1.2,100.0,Axel Tuanzebe,0.0,0.055555552469135974,6.666664957265396,True
+Christian,Walton,10,4.3,14,0,0,1,540,0.2,100.0,Christian Walton,0.0,0.0,3.2558131963225123,True
+Luke,Woolfenden,10,3.9,18,0,0,1,1187,1.2,,Luke Woolfenden,0.0,0.0,4.615383431952966,True
+Kalvin,Phillips,10,4.8,27,0,0,1,1231,0.1,0.0,Kalvin Phillips,0.0,0.0,5.6249988281252445,False
+Arijanet,Muric,10,4.4,49,0,0,1,1620,0.5,0.0,Arijanet Muric,0.0,0.0,11.136361105372474,False
+Jaden,Philogene,10,5.3,37,2,0,2,796,0.1,0.0,Jaden Philogene,0.22613062769879838,0.0,6.9811307582772155,False
+Conor,Townsend,10,3.9,11,0,1,0,334,0.5,50.0,Conor Townsend,0.0,0.26946100523505845,2.8205120973045905,False
+Sam,Szmodics,10,5.7,53,4,0,2,976,0.1,50.0,Sam Szmodics,0.36885242500336246,0.0,9.298243982764212,False
+Jens,Cajuste,10,4.5,58,1,0,1,1883,0.1,100.0,Jens Cajuste,0.04779606781643861,0.0,12.888886024691994,True
+Dara,O'Shea,10,3.9,48,0,2,2,3032,1.2,100.0,Dara O'Shea,0.0,0.059366752855208524,12.307689151874577,True
+Jack,Clarke,10,5.4,52,0,4,1,1141,0.0,,Jack Clarke,0.0,0.3155126832636797,9.629627846365214,True
+Chiedozie,Ogbene,10,4.8,7,0,0,0,237,0.0,0.0,Chiedozie Ogbene,0.0,0.0,1.4583330295139523,False
+Ben,Godfrey,10,4.0,-1,0,0,0,158,0.0,,Ben Godfrey,0.0,0.0,-0.24999993750001562,True
+Kieran,McKenna,10,0.5,50,0,0,0,0,0.4,,Kieran McKenna,0.0,0.0,99.9998000004,True
+Alex,Palmer,10,4.5,22,0,0,0,1170,0.1,,Alex Palmer,0.0,0.0,4.888887802469377,True
+Somto,Boniface,10,4.0,0,0,0,0,0,0.0,,Somto Boniface,0.0,0.0,0.0,True
+Tom,Taylor,10,4.5,0,0,0,0,0,0.0,,Tom Taylor,0.0,0.0,0.0,True
+Facundo,Buonanotte,11,4.5,74,5,2,2,1490,0.4,100.0,Facundo Buonanotte,0.3020134045763715,0.1208053618305486,16.44444079012427,True
+Jordan,Ayew,11,5.1,73,5,0,4,1559,0.2,100.0,Jordan Ayew,0.2886465516496538,0.0,14.313722683583789,True
+Odsonne,Edouard,11,5.1,7,0,0,0,141,0.2,100.0,Odsonne Edouard,0.0,0.0,1.3725487504806373,True
+Boubakary,Soumaré,11,4.4,46,0,0,1,2075,0.3,100.0,Boubakary Soumaré,0.0,0.0,10.454543078512936,True
+Tom,Cannon,11,4.5,0,0,0,0,0,0.3,0.0,Tom Cannon,0.0,0.0,0.0,False
+Hamza,Choudhury,11,4.4,4,0,0,0,129,1.0,0.0,Hamza Choudhury,0.0,0.0,0.9090907024793857,False
+Conor,Coady,11,4.0,39,1,0,2,1622,0.4,100.0,Conor Coady,0.05548704994214889,0.0,9.749997562500608,True
+Patson,Daka,11,4.8,32,1,0,0,646,0.5,100.0,Patson Daka,0.13931886603916727,0.0,6.666665277778067,True
+Bobby,De Cordova-Reid,11,5.2,48,1,4,1,734,0.1,0.0,Bobby De Cordova-Reid,0.12261578878008042,0.4904631551203217,9.230767455621642,False
+Wout,Faes,11,3.8,53,1,0,3,2722,5.0,100.0,Wout Faes,0.033063922492375816,0.0,13.947364750693486,True
+Michael,Golding,11,4.4,1,0,0,0,1,0.2,,Michael Golding,0.0,0.0,0.22727267561984643,True
+Mads,Hermansen,11,4.4,63,0,0,1,2385,0.4,0.0,Mads Hermansen,0.0,0.0,14.318178564050324,False
+Daniel,Iversen,11,3.9,0,0,0,0,0,0.7,,Daniel Iversen,0.0,0.0,0.0,True
+James,Justin,11,4.1,69,2,2,3,2822,1.1,100.0,James Justin,0.0637845479303298,0.0637845479303298,16.829264187984347,True
+Victor,Kristiansen,11,4.4,33,0,1,1,2393,0.1,100.0,Victor Kristiansen,0.0,0.03760969352909636,7.499998295454932,True
+Wanya,Marçal-Madivádua,11,4.5,0,0,0,0,0,0.0,0.0,Wanya Marçal-Madivádua,0.0,0.0,0.0,False
+Stephy,Mavididi,11,5.0,72,4,1,1,1606,0.3,0.0,Stephy Mavididi,0.2241593896797353,0.05603984741993383,14.399997120000576,False
+Kasey,McAteer,11,4.7,33,1,1,3,761,0.0,100.0,Kasey McAteer,0.11826542622353699,0.11826542622353699,7.021275101856361,True
+Wilfred,Ndidi,11,4.9,64,0,5,3,2325,0.2,100.0,Wilfred Ndidi,0.0,0.19354837960457885,13.061221824240443,True
+Caleb,Okoli,11,4.0,27,1,0,1,1122,0.4,100.0,Caleb Okoli,0.08021389730904567,0.0,6.749998312500422,True
+Ricardo,Barbosa Pereira,11,4.1,10,0,0,0,364,0.1,75.0,Ricardo Barbosa Pereira,0.0,0.0,2.43902379536005,False
+Harry,Souttar,11,4.0,0,0,0,0,0,0.0,0.0,Harry Souttar,0.0,0.0,0.0,False
+Jakub,Stolarczyk,11,4.0,23,0,0,2,810,0.5,100.0,Jakub Stolarczyk,0.0,0.0,5.749998562500359,True
+Luke,Thomas,11,3.9,22,0,0,2,1038,1.4,,Luke Thomas,0.0,0.0,5.641024194609181,True
+Jamie,Vardy,11,5.4,128,9,5,4,2825,6.2,100.0,Jamie Vardy,0.2867256545821915,0.15929203032343975,23.703699314129754,True
+Jannik,Vestergaard,11,3.9,11,0,0,0,1390,1.5,100.0,Jannik Vestergaard,0.0,0.0,2.8205120973045905,True
+Danny,Ward,11,3.9,2,0,0,0,135,2.0,,Danny Ward,0.0,0.0,0.5128203813281074,True
+Harry,Winks,11,4.3,40,0,2,0,1536,4.7,100.0,Harry Winks,0.0,0.11718749313354532,9.302323418064322,True
+Oliver,Skipp,11,4.7,24,0,0,2,1047,0.0,,Oliver Skipp,0.0,0.0,5.106381892259171,True
+Abdul,Fatawu,11,5.1,26,0,2,0,576,0.2,0.0,Abdul Fatawu,0.0,0.3124999511718826,5.098038216070938,False
+Will,Alves,11,4.4,1,0,0,0,1,0.1,0.0,Will Alves,0.0,0.0,0.22727267561984643,False
+Ben,Nelson,11,4.0,0,0,0,0,0,0.0,0.0,Ben Nelson,0.0,0.0,0.0,False
+Bilal,El Khannouss,11,4.8,83,2,4,3,2179,0.3,,Bilal El Khannouss,0.08260669690931495,0.1652133938186299,17.29166306423686,True
+Henry,Cartwright,11,4.5,0,0,0,0,0,0.0,,Henry Cartwright,0.0,0.0,0.0,True
+Thomas,Wilson-Brown,11,4.0,0,0,0,0,0,0.0,0.0,Thomas Wilson-Brown,0.0,0.0,0.0,False
+Woyo,Coulibaly,11,4.0,1,0,0,0,107,0.0,,Woyo Coulibaly,0.0,0.0,0.24999993750001562,True
+Ruud,van Nistelrooij,11,0.5,48,0,0,0,0,0.5,,Ruud van Nistelrooij,0.0,0.0,95.999808000384,True
+Jeremy,Monga,11,4.5,6,0,0,0,87,0.0,100.0,Jeremy Monga,0.0,0.0,1.3333330370371028,True
+Olabade,Aluko,11,4.0,0,0,0,0,0,0.0,,Olabade Aluko,0.0,0.0,0.0,True
+Jake,Evans,11,4.5,3,0,0,0,17,0.0,,Jake Evans,0.0,0.0,0.6666665185185514,True
+Alisson,Ramses Becker,12,5.5,105,0,0,10,2328,8.4,100.0,Alisson Ramses Becker,0.0,0.0,19.09090561983534,True
+Trent,Alexander-Arnold,12,7.2,147,3,7,12,2317,16.7,100.0,Trent Alexander-Arnold,0.1165299911576611,0.27190331270120927,20.416663831018912,True
+Stefan,Bajčetić Maquieira,12,4.5,0,0,0,0,0,0.0,0.0,Stefan Bajčetić Maquieira,0.0,0.0,0.0,False
+Conor,Bradley,12,4.7,36,0,1,3,623,1.0,100.0,Conor Bradley,0.0,0.14446225842439284,7.659572838388757,True
+Bobby,Clark,12,4.5,0,0,0,0,0,0.0,0.0,Bobby Clark,0.0,0.0,0.0,False
+Darwin,Núñez Ribeiro,12,7.0,64,5,3,2,1057,1.9,100.0,Darwin Núñez Ribeiro,0.42573317094041124,0.25543990256424676,9.14285583673488,True
+Diogo,Teixeira da Silva,12,7.2,86,6,4,7,1154,2.6,100.0,Diogo Teixeira da Silva,0.46793757182462614,0.3119583812164174,11.944442785494058,True
+Ben,Doak,12,4.5,0,0,0,0,0,0.0,0.0,Ben Doak,0.0,0.0,0.0,False
+Harvey,Elliott,12,5.2,19,0,1,0,264,0.2,100.0,Harvey Elliott,0.0,0.34090897469012227,3.653845451183567,True
+Endo,Wataru,12,4.6,19,0,0,0,225,0.1,,Endo Wataru,0.0,0.0,4.130433884688286,True
+Cody,Gakpo,12,7.2,118,10,4,5,1769,5.0,100.0,Cody Gakpo,0.5087619865525276,0.203504794621011,16.388886612654638,True
+Joe,Gomez,12,4.7,14,0,0,1,517,0.4,25.0,Joe Gomez,0.0,0.0,2.9787227704845165,False
+Ryan,Gravenberch,12,5.0,91,0,4,14,3003,0.7,100.0,Ryan Gravenberch,0.0,0.11988011628730921,18.19999636000073,True
+Curtis,Jones,12,5.3,84,3,5,6,1585,0.2,100.0,Curtis Jones,0.17034699348187418,0.2839116558031236,15.849053613386111,True
+Caoimhin,Kelleher,12,3.9,45,0,0,4,900,1.2,,Caoimhin Kelleher,0.0,0.0,11.538458579882414,True
+Ibrahima,Konaté,12,5.3,103,1,2,11,2410,7.1,100.0,Ibrahima Konaté,0.037344396945644925,0.07468879389128985,19.433958597366303,True
+Luis,Díaz,12,7.5,180,13,7,15,2298,17.1,100.0,Luis Díaz,0.5091383612608996,0.27415142529433056,23.999996800000424,True
+Mohamed,Salah,12,13.6,332,28,18,15,3194,66.9,,Mohamed Salah,0.7889793140237514,0.5072009875866973,24.41176291089979,True
+Alexis,Mac Allister,12,6.2,122,5,6,14,2597,1.9,100.0,Alexis Mac Allister,0.17327685190800282,0.2079322222896034,19.677416181061904,True
+James,McConnell,12,4.3,0,0,0,0,0,0.1,100.0,James McConnell,0.0,0.0,0.0,True
+Tyler,Morton,12,4.4,0,0,0,0,0,0.1,100.0,Tyler Morton,0.0,0.0,0.0,True
+Nathaniel,Phillips,12,4.0,0,0,0,0,0,0.1,0.0,Nathaniel Phillips,0.0,0.0,0.0,False
+Jarell,Quansah,12,3.9,8,0,0,0,398,1.0,100.0,Jarell Quansah,0.0,0.0,2.0512815253124295,True
+Rhys,Williams,12,4.0,0,0,0,0,0,0.0,0.0,Rhys Williams,0.0,0.0,0.0,False
+Andrew,Robertson,12,5.8,89,0,1,10,2395,4.0,,Andrew Robertson,0.0,0.03757828668808108,15.344824940547424,True
+Dominik,Szoboszlai,12,6.1,134,5,10,12,2362,2.6,100.0,Dominik Szoboszlai,0.19051650417168273,0.38103300834336545,21.96720951357221,True
+Konstantinos,Tsimikas,12,4.6,42,0,1,4,739,0.2,100.0,Konstantinos Tsimikas,0.0,0.12178618273239997,9.130432797732,True
+Virgil,van Dijk,12,6.7,142,3,1,14,3240,25.7,,Virgil van Dijk,0.08333333101851859,0.027777777006172864,21.194026687458702,True
+Federico,Chiesa,12,6.8,5,0,0,0,41,0.2,100.0,Federico Chiesa,0.0,0.0,0.7352940095155869,True
+Vítezslav,Jaros,12,4.0,1,0,0,0,11,0.1,,Vítezslav Jaros,0.0,0.0,0.24999993750001562,True
+Harvey,Davies,12,4.0,0,0,0,0,0,0.0,,Harvey Davies,0.0,0.0,0.0,True
+Treymaurice,Nyoni,12,4.5,0,0,0,0,0,0.0,,Treymaurice Nyoni,0.0,0.0,0.0,True
+Amara,Nallo,12,4.0,0,0,0,0,0,0.0,,Amara Nallo,0.0,0.0,0.0,True
+Jayden,Danns,12,4.5,1,0,0,0,10,0.0,0.0,Jayden Danns,0.0,0.0,0.22222217283951715,False
+Arne,Slot,12,1.5,112,0,0,0,0,5.7,,Arne Slot,0.0,0.0,74.66661688892208,True
+Manuel,Akanji,13,5.3,53,0,0,5,1832,2.3,100.0,Manuel Akanji,0.0,0.0,9.999998113207903,True
+Nathan,Aké,13,5.3,25,0,0,3,677,0.8,50.0,Nathan Aké,0.0,0.0,4.7169802420792,False
+Bernardo,Veiga de Carvalho e Silva,13,6.1,96,3,4,8,2487,2.7,100.0,Bernardo Veiga de Carvalho e Silva,0.10856453165628957,0.14475270887505276,15.737702338081585,True
+Oscar,Bobb,13,4.7,2,0,0,0,13,0.1,50.0,Oscar Bobb,0.0,0.0,0.425531824354931,False
+Scott,Carson,13,3.9,0,0,0,0,0,0.2,,Scott Carson,0.0,0.0,0.0,True
+Kevin,De Bruyne,13,9.6,110,4,9,9,1621,14.1,100.0,Kevin De Bruyne,0.22208512030372554,0.49969152068338246,11.45833213975707,True
+Jérémy,Doku,13,6.2,84,3,6,7,1432,1.7,100.0,Jérémy Doku,0.18854747418346882,0.37709494836693763,13.54838491155082,True
+Ederson,Santana de Moraes,13,5.3,103,0,4,9,2140,5.6,100.0,Ederson Santana de Moraes,0.0,0.16822429199056715,19.433958597366303,True
+Phil,Foden,13,9.1,104,7,3,6,1763,4.6,100.0,Phil Foden,0.35734541567720507,0.15314803529023074,11.428570172684598,True
+Jack,Grealish,13,6.4,37,1,1,2,709,0.2,100.0,Jack Grealish,0.1269393350852748,0.1269393350852748,5.7812490966798284,True
+Joško,Gvardiol,13,6.5,143,5,0,12,3098,37.8,100.0,Joško Gvardiol,0.1452549990080859,0.0,21.999996615385136,True
+Erling,Haaland,13,14.9,173,21,3,8,2570,23.6,100.0,Erling Haaland,0.7354085345576777,0.10505836207966825,11.610737475789431,True
+Julián,Álvarez,13,7.0,0,0,0,0,0,0.1,0.0,Julián Álvarez,0.0,0.0,0.0,False
+João,Cavaco Cancelo,13,5.3,0,0,0,0,0,0.2,0.0,João Cavaco Cancelo,0.0,0.0,0.0,False
+Mateo,Kovačić,13,5.4,107,6,2,10,2128,1.4,100.0,Mateo Kovačić,0.25375938776393564,0.08458646258797854,19.81481114540534,True
+Rico,Lewis,13,4.3,66,1,2,5,1888,3.5,100.0,Rico Lewis,0.047669489253043415,0.09533897850608683,15.34883363980613,True
+Matheus Luiz,Nunes,13,4.9,70,1,5,8,1490,0.2,100.0,Matheus Luiz Nunes,0.0604026809152743,0.3020134045763715,14.285711370262984,True
+James,McAtee,13,4.6,31,3,0,0,340,0.1,,James McAtee,0.7941174368512667,0.0,6.739128969754572,True
+Stefan,Ortega Moreno,13,5.2,35,0,0,3,1099,0.7,,Stefan Ortega Moreno,0.0,0.0,6.730767936390781,True
+Rodrigo 'Rodri',Hernandez,13,6.2,2,0,0,0,65,0.8,50.0,Rodrigo 'Rodri' Hernandez,0.0,0.0,0.32258059313216236,False
+Rúben,Gato Alves Dias,13,5.5,81,0,0,10,2089,5.3,100.0,Rúben Gato Alves Dias,0.0,0.0,14.727270049587263,True
+John,Stones,13,5.3,29,2,0,1,544,1.0,0.0,John Stones,0.3308822981996198,0.0,5.471697080811872,False
+Kyle,Walker,13,5.1,13,0,0,0,966,2.6,0.0,Kyle Walker,0.0,0.0,2.549019108035469,False
+Sávio 'Savinho',Moreira de Oliveira,13,6.0,105,1,11,8,1744,2.1,100.0,Sávio 'Savinho' Moreira de Oliveira,0.051605501924028,0.567660521164308,17.49999708333382,True
+Nico,O'Reilly,13,4.9,31,2,0,3,525,0.3,100.0,Nico O'Reilly,0.3428570840816427,0.0,6.326529321116465,True
+Ilkay,Gündogan,13,6.3,77,0,5,8,2044,0.5,,Ilkay Gündogan,0.0,0.22015654607921273,12.222220282187257,True
+Issa,Kaboré,13,4.5,0,0,0,0,0,0.0,0.0,Issa Kaboré,0.0,0.0,0.0,False
+Jacob,Wright,13,4.5,0,0,0,0,0,0.0,0.0,Jacob Wright,0.0,0.0,0.0,False
+Jahmai,Simpson-Pusey,13,4.0,1,0,0,0,95,0.0,100.0,Jahmai Simpson-Pusey,0.0,0.0,0.24999993750001562,True
+Josh,Wilson-Esbrand,13,4.0,0,0,0,0,0,0.0,0.0,Josh Wilson-Esbrand,0.0,0.0,0.0,False
+Divin,Mubama,13,4.5,1,0,0,0,27,0.1,,Divin Mubama,0.0,0.0,0.22222217283951715,True
+Max,Alleyne,13,4.0,0,0,0,0,0,0.0,,Max Alleyne,0.0,0.0,0.0,True
+Spike,Brits,13,4.0,0,0,0,0,0,0.0,,Spike Brits,0.0,0.0,0.0,True
+Abdukodir,Khusanov,13,5.0,14,0,0,2,503,0.4,,Abdukodir Khusanov,0.0,0.0,2.799999440000112,True
+Vitor,de Oliveira Nunes dos Reis,13,4.5,1,0,0,0,1,0.0,,Vitor de Oliveira Nunes dos Reis,0.0,0.0,0.22222217283951715,True
+Pep,Guardiola,13,1.5,94,0,0,0,0,34.4,,Pep Guardiola,0.0,0.0,62.66662488891674,True
+Omar,Marmoush,13,7.4,63,6,1,6,1003,22.1,,Omar Marmoush,0.5383847971539066,0.0897307995256511,8.513512363038869,True
+Nico,González,13,6.0,22,0,1,5,649,0.0,,Nico González,0.0,0.1386748652068754,3.666666055555657,True
+Claudio,Echeverri,13,5.8,0,0,0,0,0,0.0,,Claudio Echeverri,0.0,0.0,0.0,True
+Amad,Diallo,14,5.3,116,7,7,6,1808,4.1,100.0,Amad Diallo,0.3484513100881538,0.3484513100881538,21.886788323247487,True
+Antony Matheus,dos Santos,14,5.7,8,0,0,0,135,0.2,0.0,Antony Matheus dos Santos,0.0,0.0,1.4035085257002586,False
+Bruno,Borges Fernandes,14,8.4,167,8,11,9,2927,14.7,100.0,Bruno Borges Fernandes,0.24598564327341718,0.33823025950094865,19.88095001417262,True
+Altay,Bayindir,14,4.3,2,0,0,0,270,0.1,100.0,Altay Bayindir,0.0,0.0,0.46511617090321605,True
+Carlos Henrique,Casimiro,14,4.6,46,1,0,5,1399,0.4,100.0,Carlos Henrique Casimiro,0.06433166133677662,0.0,9.99999782608743,True
+Diogo,Dalot Teixeira,14,5.0,94,0,4,8,2787,4.7,25.0,Diogo Dalot Teixeira,0.0,0.12917114760480686,18.799996240000752,False
+Christian,Eriksen,14,5.2,39,0,2,4,1028,0.2,100.0,Christian Eriksen,0.0,0.17509726093506472,7.499998557692584,True
+Jonny,Evans,14,4.4,14,0,0,1,288,0.1,100.0,Jonny Evans,0.0,0.0,3.18181745867785,True
+Alejandro,Garnacho,14,5.9,106,6,4,5,2188,4.8,100.0,Alejandro Garnacho,0.24680072110965956,0.16453381407310635,17.966098649813787,True
+Hannibal,Mejbri,14,4.5,0,0,0,0,0,0.0,0.0,Hannibal Mejbri,0.0,0.0,0.0,False
+Tom,Heaton,14,3.9,0,0,0,0,0,0.2,100.0,Tom Heaton,0.0,0.0,0.0,True
+Rasmus,Højlund,14,6.9,76,4,1,5,1918,1.0,100.0,Rasmus Højlund,0.18769550735526816,0.04692387683881704,11.014491157320121,True
+Victor,Lindelöf,14,4.3,21,0,0,1,605,0.1,100.0,Victor Lindelöf,0.0,0.0,4.883719794483769,True
+Harry,Maguire,14,4.9,42,1,0,2,1661,0.8,100.0,Harry Maguire,0.0541842234337266,0.0,8.571426822157791,True
+Kobbie,Mainoo,14,5.2,41,0,0,5,1601,1.7,100.0,Kobbie Mainoo,0.0,0.0,7.884613868343487,True
+Tyrell,Malacia,14,4.4,2,0,0,0,99,0.0,0.0,Tyrell Malacia,0.0,0.0,0.45454535123969286,False
+Lisandro,Martínez,14,4.3,68,2,1,6,1751,2.3,0.0,Lisandro Martínez,0.10279839563000821,0.051399197815004107,15.813949810709346,False
+Scott,McTominay,14,4.9,2,0,0,0,17,0.1,0.0,Scott McTominay,0.0,0.0,0.40816318200751384,False
+Mason,Mount,14,6.3,22,1,0,2,548,0.2,100.0,Mason Mount,0.1642335496696725,0.0,3.4920629377677876,True
+André,Onana,14,4.9,120,0,0,9,3060,5.1,,André Onana,0.0,0.0,24.48979092045083,True
+Facundo,Pellistri Rebollo,14,5.0,0,0,0,0,0,0.0,0.0,Facundo Pellistri Rebollo,0.0,0.0,0.0,False
+Luke,Shaw,14,4.9,5,0,0,0,346,0.2,100.0,Luke Shaw,0.0,0.0,1.0204079550187846,True
+Joshua,Zirkzee,14,6.5,64,3,2,3,1385,1.5,0.0,Joshua Zirkzee,0.19494583570749083,0.12996389047166054,9.84615233136118,False
+Leny,Yoro,14,4.3,22,0,0,1,1160,0.2,25.0,Leny Yoro,0.0,0.0,5.116277879935377,False
+Matthijs,de Ligt,14,4.8,68,2,0,4,2119,2.9,25.0,Matthijs de Ligt,0.08494572550961996,0.0,14.166663715278393,False
+Noussair,Mazraoui,14,4.2,87,0,1,7,2817,7.4,100.0,Noussair Mazraoui,0.0,0.031948880768406365,20.7142807823141,True
+Toby,Collyer,14,4.5,6,0,0,0,174,0.0,100.0,Toby Collyer,0.0,0.0,1.3333330370371028,True
+Ethan,Wheatley,14,4.5,0,0,0,0,0,1.0,0.0,Ethan Wheatley,0.0,0.0,0.0,False
+Manuel,Ugarte,14,4.9,49,1,2,4,1777,0.1,100.0,Manuel Ugarte,0.05064715556654811,0.10129431113309623,9.999997959184089,True
+Ayden,Heaven,14,4.0,2,0,0,0,104,0.1,100.0,Ayden Heaven,0.0,0.0,0.49999987500003124,True
+Jack,Fletcher,14,4.5,0,0,0,0,0,0.0,,Jack Fletcher,0.0,0.0,0.0,True
+Harry,Amass,14,4.0,4,0,0,0,345,0.1,,Harry Amass,0.0,0.0,0.9999997500000625,True
+Jayce,Fitzgerald,14,4.5,0,0,0,0,0,0.0,,Jayce Fitzgerald,0.0,0.0,0.0,True
+Godwill,Kukonki,14,4.0,0,0,0,0,0,0.0,,Godwill Kukonki,0.0,0.0,0.0,True
+Ruben Filipe,Marques Diogo Amorim,14,0.8,66,0,0,0,0,1.5,,Ruben Filipe Marques Diogo Amorim,0.0,0.0,82.4998968751289,True
+Elyh,Harrison,14,4.0,0,0,0,0,0,0.0,,Elyh Harrison,0.0,0.0,0.0,True
+Patrick,Dorgu,14,4.5,11,0,0,1,750,0.2,100.0,Patrick Dorgu,0.0,0.0,2.4444439012346884,True
+Chido,Obi-Martin,14,4.5,6,0,0,0,151,0.2,,Chido Obi-Martin,0.0,0.0,1.3333330370371028,True
+Tyler,Fredricson,14,4.0,2,0,0,0,166,0.0,,Tyler Fredricson,0.0,0.0,0.49999987500003124,True
+Jack,Moorhouse,14,4.5,0,0,0,0,0,0.0,,Jack Moorhouse,0.0,0.0,0.0,True
+Sékou,Koné,14,4.5,0,0,0,0,0,0.0,,Sékou Koné,0.0,0.0,0.0,True
+Hubert,Graczyk,14,4.0,0,0,0,0,0,0.0,,Hubert Graczyk,0.0,0.0,0.0,True
+Dermot,Mee,14,4.0,0,0,0,0,0,0.0,,Dermot Mee,0.0,0.0,0.0,True
+Alex,Murphy,15,4.0,0,0,0,0,0,0.5,0.0,Alex Murphy,0.0,0.0,0.0,False
+Miguel,Almirón Rejala,15,5.4,10,0,0,0,150,0.3,0.0,Miguel Almirón Rejala,0.0,0.0,1.8518515089163872,False
+Harvey,Barnes,15,5.9,128,9,5,6,1659,4.5,100.0,Harvey Barnes,0.4882459047967863,0.2712477248871035,21.69491157713363,True
+Sven,Botman,15,4.4,12,0,0,1,350,0.0,50.0,Sven Botman,0.0,0.0,2.727272107438157,False
+Bruno,Guimarães Rodriguez Moura,15,6.2,133,5,6,13,3183,3.0,100.0,Bruno Guimarães Rodriguez Moura,0.14137605632301445,0.16965126758761734,21.4516094432888,True
+Dan,Burn,15,4.5,113,1,1,13,3240,11.6,100.0,Dan Burn,0.027777777006172864,0.027777777006172864,25.111105530865437,True
+Martin,Dúbravka,15,4.0,44,0,0,5,900,1.3,100.0,Martin Dúbravka,0.0,0.0,10.999997250000687,True
+Anthony,Gordon,15,7.4,123,6,6,10,2383,7.8,100.0,Anthony Gordon,0.2266051110388334,0.2266051110388334,16.62161937545684,True
+Lewis,Hall,15,4.7,102,0,7,8,2188,4.4,0.0,Lewis Hall,0.0,0.28793417462793613,21.70212304210148,False
+Isaac,Hayden,15,4.4,0,0,0,0,0,0.1,0.0,Isaac Hayden,0.0,0.0,0.0,False
+Alexander,Isak,15,9.5,209,23,6,12,2668,57.1,100.0,Alexander Isak,0.7758620427932593,0.2023987937721546,21.999997684210772,True
+Jacob,Murphy,15,5.2,157,8,13,11,2287,15.0,100.0,Jacob Murphy,0.31482289972275423,0.5115872120494757,30.19230188609579,True
+Joelinton Cássio,Apolinário de Lira,15,6.0,99,4,4,10,2394,1.1,0.0,Joelinton Cássio Apolinário de Lira,0.15037593419639345,0.15037593419639345,16.499997250000458,False
+Lloyd,Kelly,15,4.2,12,0,1,0,299,0.1,0.0,Lloyd Kelly,0.0,0.3010032538786192,2.85714217687091,False
+Emil,Krafth,15,4.3,17,0,0,1,334,0.1,100.0,Emil Krafth,0.0,0.0,3.9534874526773365,True
+Garang,Kuol,15,4.4,0,0,0,0,0,0.1,,Garang Kuol,0.0,0.0,0.0,True
+Jamaal,Lascelles,15,4.5,0,0,0,0,0,0.0,100.0,Jamaal Lascelles,0.0,0.0,0.0,True
+Jamal,Lewis,15,4.0,0,0,0,0,0,0.1,0.0,Jamal Lewis,0.0,0.0,0.0,False
+Tino,Livramento,15,4.6,103,0,1,10,2745,8.7,100.0,Tino Livramento,0.0,0.03278688417092183,22.391299480152288,True
+Sean,Longstaff,15,4.4,34,0,1,2,783,0.3,,Sean Longstaff,0.0,0.1149425155238488,7.727270971074779,True
+Lewis,Miley,15,5.0,21,1,0,0,304,0.0,100.0,Lewis Miley,0.29605254393181263,0.0,4.199999160000168,True
+Odysseas,Vlachodimos,15,4.2,0,0,0,0,0,0.1,,Odysseas Vlachodimos,0.0,0.0,0.0,True
+Nick,Pope,15,5.0,99,0,0,8,2430,5.9,100.0,Nick Pope,0.0,0.0,19.799996040000792,True
+John,Ruddy,15,3.9,0,0,0,0,0,0.3,,John Ruddy,0.0,0.0,0.0,True
+Fabian,Schär,15,5.5,117,4,2,11,2845,4.3,100.0,Fabian Schär,0.12653778158579954,0.06326889079289977,21.27272340495938,True
+Matt,Targett,15,3.9,2,0,0,0,20,0.3,25.0,Matt Targett,0.0,0.0,0.5128203813281074,False
+Sandro,Tonali,15,5.5,104,4,2,11,2535,0.8,100.0,Sandro Tonali,0.14201182927768652,0.07100591463884326,18.909087471075004,True
+Kieran,Trippier,15,5.6,71,0,3,6,1272,4.9,25.0,Kieran Trippier,0.0,0.2122641359247074,12.678569164541221,False
+Joe,White,15,4.5,0,0,0,0,0,0.1,0.0,Joe White,0.0,0.0,0.0,False
+Joe,Willock,15,4.7,45,0,2,4,1020,0.1,50.0,Joe Willock,0.0,0.17647057266436122,9.574466047985947,False
+Callum,Wilson,15,6.9,18,0,0,0,335,0.2,100.0,Callum Wilson,0.0,0.0,2.608695274102134,True
+Miodrag,Pivaš,15,4.0,0,0,0,0,0,0.1,0.0,Miodrag Pivaš,0.0,0.0,0.0,False
+William,Osula,15,4.9,18,1,0,0,122,0.2,,William Osula,0.7377043738246423,0.0,3.6734686380676247,True
+Eddie,Howe,15,1.5,97,0,0,0,0,1.9,,Eddie Howe,0.0,0.0,64.6666235555843,True
+Sean,Neave,15,4.5,0,0,0,0,0,0.0,,Sean Neave,0.0,0.0,0.0,True
+Álex,Moreno Lopera,16,4.2,34,0,1,3,952,0.4,100.0,Álex Moreno Lopera,0.0,0.09453780618865279,8.095236167800913,True
+Ola,Aina,16,5.3,127,2,1,12,2914,13.2,100.0,Ola Aina,0.06177075993158257,0.030885379965791285,23.962259629762332,True
+Elliot,Anderson,16,5.0,106,2,6,13,2636,0.3,100.0,Elliot Anderson,0.06828527839693663,0.20485583519080988,21.199995760000846,True
+Taiwo,Awoniyi,16,5.5,32,1,0,1,398,0.3,0.0,Taiwo Awoniyi,0.22613060213127084,0.0,5.818180760330771,False
+Willy,Boly,16,4.2,6,0,0,0,146,0.1,100.0,Willy Boly,0.0,0.0,1.428571088435455,True
+Josh,Bowler,16,4.5,0,0,0,0,0,0.0,0.0,Josh Bowler,0.0,0.0,0.0,False
+Carlos Miguel,dos Santos Pereira,16,4.1,0,0,0,0,0,0.1,100.0,Carlos Miguel dos Santos Pereira,0.0,0.0,0.0,True
+Eric,da Silva Moreira,16,4.3,2,0,0,0,28,0.1,,Eric da Silva Moreira,0.0,0.0,0.46511617090321605,True
+Danilo,dos Santos de Oliveira,16,4.7,11,0,0,1,271,0.0,100.0,Danilo dos Santos de Oliveira,0.0,0.0,2.3404250339521204,True
+Emmanuel,Dennis,16,4.9,0,0,0,0,0,0.2,0.0,Emmanuel Dennis,0.0,0.0,0.0,False
+Nicolás,Domínguez,16,4.8,52,0,1,7,1887,0.0,100.0,Nicolás Domínguez,0.0,0.04769475130231711,10.83333107638936,True
+Anthony,Elanga,16,5.5,151,6,11,12,2406,10.2,100.0,Anthony Elanga,0.22443889434767225,0.4114713063040658,27.454540462810826,True
+Morgan,Gibbs-White,16,6.5,152,7,11,13,2715,7.0,100.0,Morgan Gibbs-White,0.23204419120295497,0.3646408718903578,23.384611786982802,True
+Callum,Hudson-Odoi,16,5.1,102,5,3,11,2157,1.2,50.0,Callum Hudson-Odoi,0.20862307891697862,0.1251738473501872,19.999996078432144,False
+Alex,Mighten,16,4.5,0,0,0,0,0,0.0,0.0,Alex Mighten,0.0,0.0,0.0,False
+Murillo,Santiago Costa dos Santos,16,4.8,128,2,0,12,3098,4.4,75.0,Murillo Santiago Costa dos Santos,0.05810199960323436,0.0,26.66666111111227,False
+Neco,Williams,16,4.5,107,1,3,10,2498,4.2,,Neco Williams,0.03602882176037071,0.10808646528111213,23.777772493828333,True
+Omar,Richards,16,4.5,0,0,0,0,0,0.0,0.0,Omar Richards,0.0,0.0,0.0,False
+Lewis,O'Brien,16,5.0,0,0,0,0,0,0.0,0.0,Lewis O'Brien,0.0,0.0,0.0,False
+Andrew,Omobamidele,16,4.2,0,0,0,0,0,0.0,0.0,Andrew Omobamidele,0.0,0.0,0.0,False
+Jonathan,Panzo,16,4.0,0,0,0,0,0,0.0,0.0,Jonathan Panzo,0.0,0.0,0.0,False
+Ibrahim,Sangaré,16,4.3,19,0,1,2,528,1.2,100.0,Ibrahim Sangaré,0.0,0.17045451639979836,4.418603623580553,True
+Matz,Sels,16,5.2,148,0,1,13,3330,20.7,100.0,Matz Sels,0.0,0.027027026296566857,28.46153298816673,True
+Harry,Toffolo,16,4.2,4,0,0,0,135,0.1,,Harry Toffolo,0.0,0.0,0.9523807256236367,True
+Hwang,Ui-jo,16,4.5,0,0,0,0,0,0.8,0.0,Hwang Ui-jo,0.0,0.0,0.0,False
+Chris,Wood,16,7.2,198,20,3,15,2868,31.8,100.0,Chris Wood,0.6276150430664735,0.09414225645997103,27.499996180556085,True
+Joe,Worrall,16,4.5,0,0,0,0,0,0.0,0.0,Joe Worrall,0.0,0.0,0.0,False
+Ryan,Yates,16,4.8,66,2,2,6,1879,0.1,100.0,Ryan Yates,0.09579563138818158,0.09579563138818158,13.749997135417264,True
+Nikola,Milenković,16,5.2,143,5,2,13,3240,18.2,,Nikola Milenković,0.1388888850308643,0.05555555401234573,27.499994711539475,True
+João Pedro,Ferreira Silva,16,5.9,51,3,2,1,828,0.1,100.0,João Pedro Ferreira Silva,0.32608692107750864,0.21739128071833907,8.64406633151418,True
+Ramón,Sosa,16,5.5,25,1,0,1,280,0.1,,Ramón Sosa,0.3214284681122781,0.0,4.545453719008415,True
+Felipe,Rodrigues da Silva,16,4.5,36,0,0,3,891,0.1,,Felipe Rodrigues da Silva,0.0,0.0,7.999998222222617,True
+Zach,Abbott,16,4.0,0,0,0,0,0,0.0,,Zach Abbott,0.0,0.0,0.0,True
+Wayne,Hennessey,16,4.0,0,0,0,0,0,0.0,,Wayne Hennessey,0.0,0.0,0.0,True
+Nuno Herlander,Simões Espírito Santo,16,1.1,78,0,0,0,0,6.3,,Nuno Herlander Simões Espírito Santo,0.0,0.0,70.9090264463396,True
+Aaron,Ramsdale,17,4.4,94,0,0,3,2610,1.4,100.0,Aaron Ramsdale,0.0,0.0,21.363631508265563,True
+Cameron,Archer,17,4.8,56,2,0,2,1410,1.1,,Cameron Archer,0.12765956631960215,0.0,11.666664236111618,True
+Lesley,Ugochukwu,17,4.4,45,1,1,1,1567,0.3,100.0,Lesley Ugochukwu,0.05743458508671814,0.05743458508671814,10.227270402893089,True
+Ryan,Fraser,17,4.8,7,0,0,0,303,0.0,100.0,Ryan Fraser,0.0,0.0,1.4583330295139523,True
+Samuel,Amo-Ameyaw,17,4.4,1,0,0,0,26,0.1,0.0,Samuel Amo-Ameyaw,0.0,0.0,0.22727267561984643,False
+Joe,Aribo,17,4.9,72,3,0,1,2007,0.1,,Joe Aribo,0.13452914194936583,0.0,14.693874552270499,True
+Adam,Armstrong,17,5.1,45,2,3,2,1246,0.5,0.0,Adam Armstrong,0.14446226885906566,0.21669340328859849,8.82352768166124,False
+Gavin,Bazunu,17,4.3,0,0,0,0,0,0.1,0.0,Gavin Bazunu,0.0,0.0,0.0,False
+Jan,Bednarek,17,4.0,60,2,0,3,2531,2.0,100.0,Jan Bednarek,0.07111813259556225,0.0,14.999996250000937,True
+Armel,Bella-Kotchap,17,3.9,2,0,0,0,329,0.4,,Armel Bella-Kotchap,0.0,0.0,0.5128203813281074,True
+James,Bree,17,3.9,23,0,1,1,1070,0.3,100.0,James Bree,0.0,0.08411214245785718,5.897434385273234,True
+Shea,Charles,17,4.5,0,0,0,0,0,0.0,0.0,Shea Charles,0.0,0.0,0.0,False
+Samuel,Edozie,17,4.9,1,0,0,0,64,0.0,0.0,Samuel Edozie,0.0,0.0,0.20408159100375692,False
+Ronnie,Edwards,17,3.9,1,0,0,0,12,0.2,0.0,Ronnie Edwards,0.0,0.0,0.2564101906640537,False
+Taylor,Harwood-Bellis,17,3.9,55,1,0,3,2824,4.3,100.0,Taylor Harwood-Bellis,0.031869687369592115,0.0,14.102560486522952,True
+Kamaldeen,Sulemana,17,5.0,51,1,2,3,1316,0.0,100.0,Kamaldeen Sulemana,0.06838905307369698,0.13677810614739397,10.199997960000408,True
+Adam,Lallana,17,5.0,17,0,2,0,352,0.0,100.0,Adam Lallana,0.0,0.5113635056172855,3.399999320000136,True
+Juan,Larios López,17,3.9,0,0,0,0,0,0.1,100.0,Juan Larios López,0.0,0.0,0.0,True
+Mateusz,Lis,17,4.0,0,0,0,0,0,0.1,0.0,Mateusz Lis,0.0,0.0,0.0,False
+Joe,Lumley,17,4.0,8,0,0,0,270,0.4,,Joe Lumley,0.0,0.0,1.999999500000125,True
+Ryan,Manning,17,4.3,34,0,2,1,1458,0.1,100.0,Ryan Manning,0.0,0.12345678250266774,7.906974905354673,True
+Sékou,Mara,17,5.0,0,0,0,0,0,0.0,0.0,Sékou Mara,0.0,0.0,0.0,False
+Alex,McCarthy,17,4.2,12,0,0,0,450,0.1,,Alex McCarthy,0.0,0.0,2.85714217687091,True
+Paul,Onuachu,17,4.9,50,4,1,1,1018,0.3,100.0,Paul Onuachu,0.35363454633879254,0.08840863658469814,10.204079550187846,True
+Will,Smallbone,17,5.0,25,1,0,0,668,0.0,100.0,Will Smallbone,0.13473052076984002,0.0,4.9999990000002,True
+Jack,Stephens,17,4.0,31,1,0,2,1389,0.3,100.0,Jack Stephens,0.06479481221631886,0.0,7.7499980625004845,True
+Ross,Stewart,17,4.4,11,0,0,1,313,1.7,100.0,Ross Stewart,0.0,0.0,2.4999994318183107,True
+Sugawara,Yukinari,17,4.2,42,1,1,2,1458,0.1,100.0,Sugawara Yukinari,0.06172839125133387,0.06172839125133387,9.999997619048186,True
+Charlie,Taylor,17,3.9,5,0,0,0,263,3.1,100.0,Charlie Taylor,0.0,0.0,1.2820509533202684,True
+Kyle,Walker-Peters,17,4.2,54,0,3,2,2918,0.3,50.0,Kyle Walker-Peters,0.0,0.09252912668690151,12.857139795919096,False
+Nathan,Wood-Gordon,17,3.9,13,0,0,1,681,1.0,100.0,Nathan Wood-Gordon,0.0,0.0,3.333332478632698,True
+Maxwel,Cornet,17,4.7,1,0,0,0,71,0.0,0.0,Maxwel Cornet,0.0,0.0,0.2127659121774655,False
+Flynn,Downes,17,4.7,46,1,0,4,2059,0.0,100.0,Flynn Downes,0.043710537186037714,0.0,9.787231960163412,True
+Ben,Brereton Díaz,17,4.8,13,0,0,0,446,0.1,0.0,Ben Brereton Díaz,0.0,0.0,2.70833276909734,False
+Tyler,Dibling,17,4.3,68,2,2,3,1863,1.4,100.0,Tyler Dibling,0.09661835282036943,0.09661835282036943,15.813949810709346,True
+Mateus Gonçalo,Espanha Fernandes,17,5.0,89,2,3,5,2821,0.1,100.0,Mateus Gonçalo Espanha Fernandes,0.06380715854567733,0.09571073781851598,17.79999644000071,True
+Joseph,O'Brien-Whitmarsh,17,4.5,0,0,0,0,0,0.0,0.0,Joseph O'Brien-Whitmarsh,0.0,0.0,0.0,False
+Welington Damascena,Santos,17,4.0,13,0,0,1,388,0.0,,Welington Damascena Santos,0.0,0.0,3.2499991875002032,True
+Joachim,Kayi-Sanda,17,4.0,1,0,0,0,8,0.0,,Joachim Kayi-Sanda,0.0,0.0,0.24999993750001562,True
+Albert,Grønbæk,17,4.9,6,0,0,0,141,0.0,100.0,Albert Grønbæk,0.0,0.0,1.2244895460225416,True
+Simon,Rusk,17,0.5,37,0,0,0,0,0.1,100.0,Simon Rusk,0.0,0.0,73.999852000296,True
+Jay,Robinson,17,4.4,3,0,0,0,56,0.0,,Jay Robinson,0.0,0.0,0.6818180268595393,True
+Dominic,Solanke-Mitchell,18,7.3,101,8,5,4,2134,4.6,100.0,Dominic Solanke-Mitchell,0.33739454996930196,0.21087159373081374,13.835614543066502,True
+Ashley,Phillips,18,4.0,0,0,0,0,0,0.1,0.0,Ashley Phillips,0.0,0.0,0.0,False
+Brandon,Austin,18,4.0,1,0,0,0,90,0.4,,Brandon Austin,0.0,0.0,0.24999993750001562,True
+Rodrigo,Bentancur,18,4.9,48,2,0,3,1575,0.1,100.0,Rodrigo Bentancur,0.11428570775510241,0.0,9.795916368180333,True
+Lucas,Bergvall,18,4.4,44,0,2,3,1200,0.8,0.0,Lucas Bergvall,0.0,0.14999998875000084,9.999997727273243,False
+Yves,Bissouma,18,4.8,49,2,0,3,1372,0.2,100.0,Yves Bissouma,0.1311953266708605,0.0,10.208331206597665,True
+Bryan,Gil Salvatierra,18,5.0,0,0,0,0,0,0.0,0.0,Bryan Gil Salvatierra,0.0,0.0,0.0,False
+Ben,Davies,18,4.3,29,0,0,3,1305,0.2,100.0,Ben Davies,0.0,0.0,6.744184478096633,True
+Alfie,Devine,18,4.5,0,0,0,0,0,0.0,0.0,Alfie Devine,0.0,0.0,0.0,False
+Radu,Drăgușin,18,4.3,24,0,0,2,1250,0.1,0.0,Radu Drăgușin,0.0,0.0,5.581394050838593,False
+Emerson,Leite de Souza Junior,18,4.5,0,0,0,0,0,0.0,0.0,Emerson Leite de Souza Junior,0.0,0.0,0.0,False
+Fraser,Forster,18,4.3,19,0,0,1,630,0.3,,Fraser Forster,0.0,0.0,4.418603623580553,True
+Archie,Gray,18,4.6,43,0,0,2,1660,0.2,100.0,Archie Gray,0.0,0.0,9.347824054820858,True
+Pierre-Emile,Højbjerg,18,5.0,0,0,0,0,0,0.0,0.0,Pierre-Emile Højbjerg,0.0,0.0,0.0,False
+Brennan,Johnson,18,6.2,135,11,6,2,2081,2.3,100.0,Brennan Johnson,0.47573280018454966,0.25949061828248166,21.77419003642096,True
+Dejan,Kulusevski,18,6.2,117,7,4,6,2386,2.2,0.0,Dejan Kulusevski,0.2640402247428247,0.15088012842447124,18.8709646982315,False
+Giovani,Lo Celso,18,4.9,0,0,0,0,0,0.0,0.0,Giovani Lo Celso,0.0,0.0,0.0,False
+James,Maddison,18,7.4,133,9,8,6,1799,3.9,0.0,James Maddison,0.45025011644107255,0.40022232572539784,17.972970544193167,False
+Pedro,Porro,18,5.2,99,2,6,6,2516,16.7,100.0,Pedro Porro,0.07154212780652165,0.21462638341956497,19.03845787721964,True
+Sergio,Reguilón,18,4.1,2,0,0,0,194,0.2,,Sergio Reguilón,0.0,0.0,0.48780475907201,True
+Richarlison,de Andrade,18,6.8,34,4,1,1,473,0.4,100.0,Richarlison de Andrade,0.7610992209324949,0.19027480523312373,4.99999926470599,True
+Cristian,Romero,18,4.9,49,1,1,3,1416,3.5,100.0,Cristian Romero,0.06355931799411114,0.06355931799411114,9.999997959184089,True
+Pape Matar,Sarr,18,4.7,70,3,2,2,1856,0.2,100.0,Pape Matar Sarr,0.1454741308767932,0.09698275391786214,14.893613852422584,True
+Dane,Scarlett,18,4.4,6,0,1,0,31,0.7,0.0,Dane Scarlett,0.0,2.9032173777560004,1.3636360537190786,False
+Manor,Solomon,18,5.4,0,0,0,0,0,0.0,0.0,Manor Solomon,0.0,0.0,0.0,False
+Son,Heung-min,18,9.7,129,7,10,4,2106,4.1,100.0,Son Heung-min,0.29914528636131255,0.42735040908758937,13.298967701137352,True
+Djed,Spence,18,4.4,51,1,2,3,1783,0.8,100.0,Djed Spence,0.050476722073524966,0.10095344414704993,11.590906456612167,True
+Destiny,Udogie,18,4.8,43,0,1,2,1833,1.5,100.0,Destiny Udogie,0.0,0.049099833923085076,8.958331467014277,True
+Micky,van de Ven,18,4.5,31,0,2,2,949,2.4,100.0,Micky van de Ven,0.0,0.18967332237028556,6.888887358025031,True
+Alejo,Véliz,18,5.0,0,0,0,0,0,0.0,0.0,Alejo Véliz,0.0,0.0,0.0,False
+Guglielmo,Vicario,18,4.8,65,0,0,4,2070,1.8,100.0,Guglielmo Vicario,0.0,0.0,13.541663845486699,True
+Timo,Werner,18,6.2,34,0,3,1,504,0.1,100.0,Timo Werner,0.0,0.5357141900510375,5.48387008324676,True
+Alfie,Whiteman,18,3.9,0,0,0,0,0,1.7,,Alfie Whiteman,0.0,0.0,0.0,True
+Will,Lankshear,18,4.5,3,0,0,0,10,1.0,0.0,Will Lankshear,0.0,0.0,0.6666665185185514,False
+Mikey,Moore,18,4.5,19,0,2,0,359,0.2,100.0,Mikey Moore,0.0,0.5013926319628499,4.222221283950826,True
+Wilson,Odobert,18,5.3,33,1,0,1,798,0.0,100.0,Wilson Odobert,0.11278194216745013,0.0,6.226413919544544,True
+Callum,Olusesi,18,4.5,0,0,0,0,0,0.0,,Callum Olusesi,0.0,0.0,0.0,True
+Malachi,Hardy,18,4.0,0,0,0,0,0,0.0,,Malachi Hardy,0.0,0.0,0.0,True
+Luca,Williams-Barnett,18,4.5,0,0,0,0,0,0.0,0.0,Luca Williams-Barnett,0.0,0.0,0.0,False
+Alfie,Dorrington,18,4.0,1,0,0,0,13,0.0,0.0,Alfie Dorrington,0.0,0.0,0.24999993750001562,False
+Maeson,King,18,4.0,0,0,0,0,0,0.0,,Maeson King,0.0,0.0,0.0,True
+Antonín,Kinsky,18,4.1,17,0,0,1,540,0.1,,Antonín Kinsky,0.0,0.0,4.146340452112085,True
+Min-Hyeok,Yang,18,4.5,0,0,0,0,0,0.0,0.0,Min-Hyeok Yang,0.0,0.0,0.0,False
+Damola,Ajayi,18,4.5,0,0,0,0,0,0.0,,Damola Ajayi,0.0,0.0,0.0,True
+Ange,Postecoglou,18,1.1,57,0,0,0,0,0.6,,Ange Postecoglou,0.0,0.0,51.81813471078662,True
+Dante,Cassanova,18,4.0,0,0,0,0,0,0.0,,Dante Cassanova,0.0,0.0,0.0,True
+Kevin,Danso,18,4.4,16,0,0,1,752,0.0,100.0,Kevin Danso,0.0,0.0,3.636362809917543,True
+Mathys,Tel,18,5.8,37,2,1,2,826,0.1,,Mathys Tel,0.21791765180074016,0.10895882590037008,6.379309244946682,True
+Evan,Ferguson,19,5.5,28,1,0,1,385,0.2,100.0,Evan Ferguson,0.2337661791195945,0.0,5.090908165289425,True
+Aaron,Wan-Bissaka,19,4.4,113,2,5,6,3064,5.4,100.0,Aaron Wan-Bissaka,0.058746734566838744,0.14686683641709686,25.681812345042648,True
+Edson,Álvarez Velázquez,19,5.0,38,0,1,3,1690,0.1,100.0,Edson Álvarez Velázquez,0.0,0.053254435033787476,7.599998480000304,True
+Michail,Antonio,19,5.2,42,1,4,4,834,0.8,0.0,Michail Antonio,0.10791365741938949,0.43165462967755797,8.076921523668938,False
+Alphonse,Areola,19,4.2,69,0,0,4,2259,7.0,100.0,Alphonse Areola,0.0,0.0,16.428567517007732,True
+Jarrod,Bowen,19,7.8,180,12,10,8,2884,13.9,100.0,Jarrod Bowen,0.3744798773567306,0.3120665644639422,23.076920118343576,True
+Vladimír,Coufal,19,4.1,26,0,0,2,1038,0.4,100.0,Vladimír Coufal,0.0,0.0,6.34146186793613,True
+Aaron,Cresswell,19,3.9,35,0,0,3,817,1.7,100.0,Aaron Cresswell,0.0,0.0,8.974356673241878,True
+George,Earthy,19,4.5,0,0,0,0,0,0.0,0.0,George Earthy,0.0,0.0,0.0,False
+Emerson,Palmieri dos Santos,19,4.4,76,2,1,5,2108,0.6,100.0,Emerson Palmieri dos Santos,0.08538899066176037,0.04269449533088018,17.27272334710833,True
+Łukasz,Fabiański,19,3.9,36,0,0,2,1070,10.2,100.0,Łukasz Fabiański,0.0,0.0,9.230766863905933,True
+Wes,Foderingham,19,4.2,0,0,0,0,0,0.1,,Wes Foderingham,0.0,0.0,0.0,True
+Danny,Ings,19,4.8,32,1,3,0,270,1.2,100.0,Danny Ings,0.33333322222225925,0.9999996666667778,6.666665277778067,True
+Max,Kilman,19,4.3,81,0,1,6,3258,1.3,100.0,Max Kilman,0.0,0.027624308629162746,18.837204921580252,True
+Mohammed,Kudus,19,6.2,99,4,4,7,2572,2.5,100.0,Mohammed Kudus,0.13996889090311035,0.13996889090311035,15.967739360042039,True
+Luis Guilherme,Lira dos Santos,19,4.6,12,0,0,0,139,0.0,,Luis Guilherme Lira dos Santos,0.0,0.0,2.608695085066286,True
+Lucas,Tolentino Coelho de Lima,19,5.7,79,4,1,4,2364,0.9,100.0,Lucas Tolentino Coelho de Lima,0.15228425816176683,0.03807106454044171,13.859646691290054,True
+Konstantinos,Mavropanos,19,4.3,43,0,0,2,1945,0.1,100.0,Konstantinos Mavropanos,0.0,0.0,9.999997674419145,True
+Nayef,Aguerd,19,4.4,0,0,0,0,0,0.0,0.0,Nayef Aguerd,0.0,0.0,0.0,False
+Tomáš,Souček,19,4.8,124,9,2,7,2473,1.4,100.0,Tomáš Souček,0.3275373920427152,0.07278608712060337,25.83332795139001,True
+James,Ward-Prowse,19,6.1,42,0,2,5,1354,0.5,100.0,James Ward-Prowse,0.0,0.13293942986370114,6.885244772910693,True
+Kurt,Zouma,19,4.4,0,0,0,0,0,0.1,0.0,Kurt Zouma,0.0,0.0,0.0,False
+Andy,Irving,19,4.7,9,0,0,0,161,0.0,,Andy Irving,0.0,0.0,1.9148932095971893,True
+Crysencio,Summerville,19,5.5,33,1,1,2,776,0.3,0.0,Crysencio Summerville,0.11597936799208362,0.11597936799208362,5.999998909091107,False
+Guido,Rodríguez,19,4.8,32,0,0,4,1136,0.1,100.0,Guido Rodríguez,0.0,0.0,6.666665277778067,True
+Niclas,Füllkrug,19,6.7,40,3,2,2,711,0.8,100.0,Niclas Füllkrug,0.37974678737382433,0.2531645249158829,5.970148362664423,True
+Jean-Clair,Todibo,19,4.2,52,0,0,5,1734,0.3,100.0,Jean-Clair Todibo,0.0,0.0,12.380949433107277,True
+Kaelan,Casey,19,4.0,1,0,0,0,1,0.2,100.0,Kaelan Casey,0.0,0.0,0.24999993750001562,True
+Carlos,Soler,19,5.0,47,1,1,2,1394,0.0,100.0,Carlos Soler,0.0645624061616811,0.0645624061616811,9.399998120000376,True
+Ollie,Scarles,19,4.0,27,0,0,2,588,0.1,,Ollie Scarles,0.0,0.0,6.749998312500422,True
+Ezra,Mayers,19,4.0,0,0,0,0,0,0.0,,Ezra Mayers,0.0,0.0,0.0,True
+Lewis,Orford,19,4.5,2,0,0,0,47,0.0,,Lewis Orford,0.0,0.0,0.4444443456790343,True
+Graham,Potter,19,0.5,75,0,0,0,0,2.4,,Graham Potter,0.0,0.0,149.9997000006,True
+Sam,Johnstone,20,4.1,12,0,0,0,630,0.3,0.0,Sam Johnstone,0.0,0.0,2.9268285544320602,False
+Rayan,Aït-Nouri,20,5.1,123,4,7,7,2958,15.6,100.0,Rayan Aït-Nouri,0.12170385025241835,0.2129817379417321,24.117642329874055,True
+Boubacar,Traoré,20,4.8,1,0,0,0,1,0.0,100.0,Boubacar Traoré,0.0,0.0,0.2083332899305646,True
+Jean-Ricner,Bellegarde,20,4.9,84,2,6,6,1573,0.2,100.0,Jean-Ricner Bellegarde,0.11443101697470341,0.3432930509241102,17.142853644315583,True
+Daniel,Bentley,20,3.9,7,0,0,1,90,1.7,,Daniel Bentley,0.0,0.0,1.7948713346483758,True
+Francisco Jorge,Tomás Oliveira,20,4.5,1,0,0,0,6,0.1,0.0,Francisco Jorge Tomás Oliveira,0.0,0.0,0.22222217283951715,False
+Tawanda,Chirewa,20,4.5,0,0,0,0,0,0.0,0.0,Tawanda Chirewa,0.0,0.0,0.0,False
+Leon,Chiwome,20,4.4,0,0,0,0,0,1.1,0.0,Leon Chiwome,0.0,0.0,0.0,False
+Luke,Cundle,20,4.5,0,0,0,0,0,0.1,0.0,Luke Cundle,0.0,0.0,0.0,False
+Matheus,Santos Carneiro Da Cunha,20,7.1,175,15,7,7,2483,14.1,100.0,Matheus Santos Carneiro Da Cunha,0.5436971208486746,0.25372532306271484,24.647883852410725,True
+Craig,Dawson,20,4.2,17,0,1,1,969,0.1,100.0,Craig Dawson,0.0,0.0928792483393887,4.047618083900456,True
+Matt,Doherty,20,4.3,73,2,1,6,2019,0.3,100.0,Matt Doherty,0.08915304208827449,0.04457652104413724,16.976740237967388,True
+Tommy,Doyle,20,4.7,28,0,1,0,474,0.0,,Tommy Doyle,0.0,0.18987338166961107,5.957445540969033,True
+Fábio,Silva,20,5.0,0,0,0,0,0,0.1,0.0,Fábio Silva,0.0,0.0,0.0,False
+Nathan,Fraser,20,4.5,0,0,0,0,0,1.0,0.0,Nathan Fraser,0.0,0.0,0.0,False
+Enso,González,20,4.4,0,0,0,0,0,0.0,0.0,Enso González,0.0,0.0,0.0,False
+Gonçalo Manuel,Ganchinho Guedes,20,5.3,58,2,4,3,825,0.1,100.0,Gonçalo Manuel Ganchinho Guedes,0.2181817943801679,0.4363635887603358,10.943394161623743,True
+Hugo,Bueno López,20,4.5,0,0,0,0,0,0.0,0.0,Hugo Bueno López,0.0,0.0,0.0,False
+Hwang,Hee-chan,20,6.1,36,2,1,0,637,0.2,75.0,Hwang Hee-chan,0.28257452836466634,0.14128726418233317,5.901638376780594,False
+Joe,Hodge,20,4.5,0,0,0,0,0,0.2,0.0,Joe Hodge,0.0,0.0,0.0,False
+Ki-Jana,Hoever,20,4.0,0,0,0,0,0,0.1,0.0,Ki-Jana Hoever,0.0,0.0,0.0,False
+João Victor,Gomes da Silva,20,4.9,85,3,1,6,2840,0.2,100.0,João Victor Gomes da Silva,0.09507041952241628,0.031690139840805424,17.34693523531934,True
+José,Malheiro de Sá,20,4.4,89,0,0,7,2520,2.9,100.0,José Malheiro de Sá,0.0,0.0,20.227268130166333,True
+Saša,Kalajdžić,20,4.8,0,0,0,0,0,0.0,0.0,Saša Kalajdžić,0.0,0.0,0.0,False
+Tom,King,20,4.0,0,0,0,0,0,1.2,,Tom King,0.0,0.0,0.0,True
+Mario,Lemina,20,4.8,47,1,3,1,1363,0.1,0.0,Mario Lemina,0.06603081001997586,0.1980924300599276,9.791664626736535,False
+Yerson,Mosquera,20,3.8,3,0,0,0,441,0.7,0.0,Yerson Mosquera,0.0,0.0,0.7894734764543483,False
+Nélson,Cabral Semedo,20,4.5,83,0,4,8,2754,0.6,100.0,Nélson Cabral Semedo,0.0,0.1307189499765049,18.444440345679922,True
+Pedro,Cardoso de Lima,20,3.9,2,0,0,0,69,1.2,100.0,Pedro Cardoso de Lima,0.0,0.0,0.5128203813281074,True
+Daniel,Castelo Podence,20,5.5,2,0,0,0,46,0.0,0.0,Daniel Castelo Podence,0.0,0.0,0.36363629752067317,False
+Rodrigo,Martins Gomes,20,5.1,39,2,0,1,689,0.1,100.0,Rodrigo Martins Gomes,0.2612481516511848,0.0,7.647057324106408,True
+Santiago,Bueno,20,4.3,51,0,0,5,1675,0.1,100.0,Santiago Bueno,0.0,0.0,11.86046235803201,True
+Pablo,Sarabia,20,5.0,48,3,2,1,734,0.1,100.0,Pablo Sarabia,0.36784736634024123,0.24523157756016084,9.599998080000384,True
+Jørgen,Strand Larsen,20,5.2,130,13,2,7,2496,2.9,100.0,Jørgen Strand Larsen,0.4687499830979573,0.07211538201507035,24.999995192308614,True
+Toti António,Gomes,20,4.3,78,0,1,8,2433,0.3,100.0,Toti António Gomes,0.0,0.03699136731227987,18.139530665225426,True
+Bastien,Meupiyou,20,3.9,0,0,0,0,0,0.2,100.0,Bastien Meupiyou,0.0,0.0,0.0,True
+André,Trindade da Costa Neto,20,5.0,58,0,0,7,2337,0.0,100.0,André Trindade da Costa Neto,0.0,0.0,11.599997680000463,True
+Carlos Roberto,Forbs Borges,20,5.4,9,0,0,0,236,0.0,100.0,Carlos Roberto Forbs Borges,0.0,0.0,1.6666663580247483,True
+Alfie,Pond,20,3.9,1,0,0,0,1,0.7,,Alfie Pond,0.0,0.0,0.2564101906640537,True
+Tom,Edozie,20,4.5,0,0,0,0,0,0.0,,Tom Edozie,0.0,0.0,0.0,True
+Wes,Okoduwa,20,4.0,0,0,0,0,0,0.0,,Wes Okoduwa,0.0,0.0,0.0,True
+Emmanuel,Agbadou,20,4.0,38,0,0,4,1230,0.4,100.0,Emmanuel Agbadou,0.0,0.0,9.499997625000594,True
+Vítor Manuel,de Oliveira Lopes Pereira,20,0.8,100,0,0,0,0,2.2,,Vítor Manuel de Oliveira Lopes Pereira,0.0,0.0,124.9998437501953,True
+Nasser,Djiga,20,4.5,4,0,0,0,20,0.0,,Nasser Djiga,0.0,0.0,0.8888886913580686,True
+Marshall,Munetsi,20,5.0,40,1,2,5,968,0.1,100.0,Marshall Munetsi,0.09297519796718201,0.18595039593436402,7.99999840000032,True
+Mateus,Mané,20,4.5,1,0,0,0,1,0.0,,Mateus Mané,0.0,0.0,0.22222217283951715,True
